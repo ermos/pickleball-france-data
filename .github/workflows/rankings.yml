@@ -20,9 +20,22 @@ jobs:
       - run: pytest -q scripts
       - run: python scripts/fetch_rankings.py
       - run: scripts/fetch_tournois.sh
+      - run: python scripts/fetch_dupr.py
+        env:
+          DUPR_REFRESH_TOKEN: ${{ secrets.DUPR_REFRESH_TOKEN }}
+          DUPR_REFRESH_TOKEN_OUT: ${{ runner.temp }}/dupr_rt
+      # Refresh tokens live 90 days: store the new one so the weekly run never expires.
+      # GITHUB_TOKEN cannot write secrets, GH_PAT needs "Secrets: read and write" on this repo.
+      - name: Rotate DUPR refresh token
+        if: always()
+        run: |
+          [ -s "$RUNNER_TEMP/dupr_rt" ] && gh secret set DUPR_REFRESH_TOKEN < "$RUNNER_TEMP/dupr_rt"
+          rm -f "$RUNNER_TEMP/dupr_rt"
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || (git commit -m "chore(data): update pickleball rankings and tournaments" && git push)
+          git diff --cached --quiet || (git commit -m "chore(data): update pickleball rankings, tournaments and DUPR players" && git push)
