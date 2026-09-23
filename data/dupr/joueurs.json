@@ -121942,11 +121942,11 @@
       "singles": "NR",
       "singlesVerified": "NR",
       "singlesProvisional": false,
-      "singlesReliabilityScore": 0,
+      "singlesReliabilityScore": 0.0,
       "doubles": "3.219",
       "doublesVerified": "NR",
       "doublesProvisional": false,
-      "doublesReliabilityScore": 1,
+      "doublesReliabilityScore": 1.0,
       "defaultRating": "DOUBLES",
       "provisionalRatings": {
         "singlesRating": null,
