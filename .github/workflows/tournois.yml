@@ -1,9 +1,9 @@
-name: Update FFT rankings
+name: Update FFT tournaments
 
 on:
   schedule:
     # off the hour: GitHub delays or drops scheduled runs at :00 under load
-    - cron: "17 6 * * 1" # every Monday 06:17 UTC
+    - cron: "37 4 */3 * *" # every 3 days 04:37 UTC
   workflow_dispatch:
 
 # Shared group across the 3 data workflows: they all push to main, so they run one at a time
@@ -19,15 +19,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: pip install pdfplumber==0.11.4 pytest
-      - run: pytest -q scripts
-      - run: python scripts/fetch_rankings.py
+      - run: scripts/fetch_tournois.sh
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || (git commit -m "chore(data): update FFT pickleball rankings" && git push)
+          git diff --cached --quiet || (git commit -m "chore(data): update FFT pickleball tournaments" && git push)

@@ -1,8 +1,9 @@
-"""Fetch every DUPR player located in France into data/dupr/joueurs.json.
+"""Fetch every DUPR player found in circles covering France into data/dupr/joueurs.json.
 
 The search API caps the radius at 100 miles (160934 m), the page size at 25 and
 the offset at 10000, so France is covered by a grid of overlapping circles and
-results are deduplicated by player id.
+results are deduplicated by player id. No country filter: many addresses lack a
+country code (e.g. "Le Mans"), so every match is kept, border neighbours included.
 
 Needs DUPR_REFRESH_TOKEN: the `__Host-dupr_rt` cookie from dashboard.dupr.com.
 Each refresh returns a new refresh token valid 90 days, written to the file named by
@@ -30,11 +31,6 @@ MAX_PASSES = 6
 METRO = [(41.5 + 1.5 * i, -5 + 2 * j) for i in range(6) for j in range(8) if (i, j) != (5, 0)] + [(50.0, 3.2)]
 OVERSEAS = [(16.2, -61.5), (14.6, -61.0), (4.0, -53.0), (-21.1, 55.5), (-12.8, 45.2),
             (-21.5, 165.5), (-17.6, -149.5), (46.8, -56.2), (17.9, -62.8), (-13.3, -176.2)]
-FR_CODES = {"FR", "GP", "MQ", "GF", "RE", "YT", "NC", "PF", "PM", "BL", "MF", "WF"}
-
-
-def is_french(hit):
-    return (hit.get("shortAddress") or "").rsplit(", ", 1)[-1] in FR_CODES
 
 
 def refresh(rt):
@@ -82,12 +78,11 @@ def main():
                     raise SystemExit(f"{total} players around {lat},{lng}, split this cell")
                 for h in res["hits"]:
                     seen.add(h["id"])
-                    if is_french(h):
-                        # distance depends on the query center, drop it to keep diffs clean
-                        players[h["id"]] = {k: v for k, v in h.items() if not k.startswith("distance")}
+                    # distance depends on the query center, drop it to keep diffs clean
+                    players[h["id"]] = {k: v for k, v in h.items() if not k.startswith("distance")}
                 offset += PAGE
                 time.sleep(0.2)
-        print(f"{lat},{lng}: {len(seen)}/{total} joueurs en {passes} passes, {len(players)} français cumulés")
+        print(f"{lat},{lng}: {len(seen)}/{total} joueurs en {passes} passes, {len(players)} cumulés")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(sorted(players.values(), key=lambda p: p["id"]), ensure_ascii=False, indent=2) + "\n")
     print(f"{len(players)} joueurs sauvegardés dans {OUT}")

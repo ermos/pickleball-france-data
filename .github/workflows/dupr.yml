@@ -1,0 +1,43 @@
+name: Update DUPR players
+
+on:
+  schedule:
+    # off the hour: GitHub delays or drops scheduled runs at :00 under load
+    - cron: "7 2 */3 * *" # every 3 days 02:07 UTC, ~35 min
+  workflow_dispatch:
+
+# Shared group across the 3 data workflows: they all push to main, so they run one at a time
+concurrency:
+  group: pickleball-data
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/fetch_dupr.py
+        env:
+          DUPR_REFRESH_TOKEN: ${{ secrets.DUPR_REFRESH_TOKEN }}
+          DUPR_REFRESH_TOKEN_OUT: ${{ runner.temp }}/dupr_rt
+      # Refresh tokens live 90 days: store the new one so the next run never expires.
+      # GITHUB_TOKEN cannot write secrets, GH_PAT needs "Secrets: read and write" on this repo.
+      - name: Rotate DUPR refresh token
+        if: always()
+        run: |
+          [ -s "$RUNNER_TEMP/dupr_rt" ] && gh secret set DUPR_REFRESH_TOKEN < "$RUNNER_TEMP/dupr_rt"
+          rm -f "$RUNNER_TEMP/dupr_rt"
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "chore(data): update DUPR players" && git push)
