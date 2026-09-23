@@ -1,4 +1,4 @@
-name: Update FFT pickleball rankings
+name: Update FFT pickleball data
 
 on:
   schedule:
@@ -19,9 +19,10 @@ jobs:
       - run: pip install pdfplumber==0.11.4 pytest
       - run: pytest -q scripts
       - run: python scripts/fetch_rankings.py
+      - run: scripts/fetch_tournois.sh
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || (git commit -m "chore(data): update pickleball rankings" && git push)
+          git diff --cached --quiet || (git commit -m "chore(data): update pickleball rankings and tournaments" && git push)
