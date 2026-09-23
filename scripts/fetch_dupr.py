@@ -20,8 +20,14 @@ OUT = Path(__file__).resolve().parent.parent / "data" / "dupr" / "joueurs.json"
 RADIUS = 160934
 PAGE = 25
 MAX_OFFSET = 10000
-# Metropolitan France: 1.5° lat x 2° lng cells, half diagonal ~115 km < radius
-METRO = [(41.5 + 1.5 * i, -5 + 2 * j) for i in range(7) for j in range(8)]
+# Pagination is unstable (players at the same distance come back in random order across
+# pages, ~1% missed per pass), so a cell is re-paginated until every id has been seen.
+MAX_PASSES = 6
+# Metropolitan France: 1.5° lat x 2° lng cells, half diagonal ~115 km < radius.
+# The north is covered by a single inland cell so no circle reaches England (and its
+# thousands of players, which would hit the 10000 offset cap): (49, -5) dropped
+# (Cornwall), (50, 3.2) reaches Dunkirk/Boulogne but stops before Dover.
+METRO = [(41.5 + 1.5 * i, -5 + 2 * j) for i in range(6) for j in range(8) if (i, j) != (5, 0)] + [(50.0, 3.2)]
 OVERSEAS = [(16.2, -61.5), (14.6, -61.0), (4.0, -53.0), (-21.1, 55.5), (-12.8, 45.2),
             (-21.5, 165.5), (-17.6, -149.5), (46.8, -56.2), (17.9, -62.8), (-13.3, -176.2)]
 FR_CODES = {"FR", "GP", "MQ", "GF", "RE", "YT", "NC", "PF", "PM", "BL", "MF", "WF"}
@@ -66,19 +72,22 @@ def main():
         Path(os.environ["DUPR_REFRESH_TOKEN_OUT"]).write_text(rt)
     players = {}
     for lat, lng in METRO + OVERSEAS:
-        offset, total = 0, 1
-        while offset < total:
-            res = search(token, lat, lng, offset)
-            total = res["total"]
-            if total > MAX_OFFSET:
-                raise SystemExit(f"{total} players around {lat},{lng}, split this cell")
-            for h in res["hits"]:
-                if is_french(h):
-                    # distance depends on the query center, drop it to keep diffs clean
-                    players[h["id"]] = {k: v for k, v in h.items() if not k.startswith("distance")}
-            offset += PAGE
-            time.sleep(0.2)
-        print(f"{lat},{lng}: {total} joueurs, {len(players)} français cumulés")
+        seen, total, passes = set(), 1, 0
+        while len(seen) < total and passes < MAX_PASSES:
+            passes, offset = passes + 1, 0
+            while offset < total:
+                res = search(token, lat, lng, offset)
+                total = res["total"]
+                if total > MAX_OFFSET:
+                    raise SystemExit(f"{total} players around {lat},{lng}, split this cell")
+                for h in res["hits"]:
+                    seen.add(h["id"])
+                    if is_french(h):
+                        # distance depends on the query center, drop it to keep diffs clean
+                        players[h["id"]] = {k: v for k, v in h.items() if not k.startswith("distance")}
+                offset += PAGE
+                time.sleep(0.2)
+        print(f"{lat},{lng}: {len(seen)}/{total} joueurs en {passes} passes, {len(players)} français cumulés")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(sorted(players.values(), key=lambda p: p["id"]), ensure_ascii=False, indent=2) + "\n")
     print(f"{len(players)} joueurs sauvegardés dans {OUT}")
