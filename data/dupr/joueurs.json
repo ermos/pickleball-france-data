@@ -172573,6 +172573,38 @@
     "badges": []
   },
   {
+    "id": 6548134075,
+    "fullName": "Kilian SMITI",
+    "shortAddress": "Le Mans",
+    "gender": "MALE",
+    "age": 27,
+    "ratings": {
+      "singles": "NR",
+      "singlesVerified": "NR",
+      "singlesProvisional": false,
+      "doubles": "3.698",
+      "doublesVerified": "NR",
+      "doublesProvisional": false,
+      "doublesReliabilityScore": 20,
+      "defaultRating": "DOUBLES",
+      "provisionalRatings": {
+        "singlesRating": null,
+        "doublesRating": null,
+        "coach": null
+      }
+    },
+    "enablePrivacy": false,
+    "isPlayer1": true,
+    "verifiedEmail": true,
+    "registered": true,
+    "duprId": "W5Y0KY",
+    "showRatingBanner": false,
+    "status": "ACTIVE",
+    "sponsor": {},
+    "lucraConnected": false,
+    "badges": []
+  },
+  {
     "id": 6548791283,
     "fullName": "Silvia Berzacola",
     "shortAddress": "Bussolengo, Veneto, IT",
