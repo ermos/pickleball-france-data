@@ -1,29 +1,6 @@
 [
   {
     "club": {
-      "code": "56590017",
-      "lat": 51.045017,
-      "libelle": "RAQUETTES CLUB MALOUIN",
-      "lng": 2.406294
-    },
-    "dateDebut": "2026-09-25",
-    "dateFin": "2026-09-25",
-    "distance": 495340.97,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82680740",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 Soirée RCM Dunkerque Malo",
-    "naturesEpreuves": [
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "DUNKERQUE"
-  },
-  {
-    "club": {
       "code": "56590149",
       "lat": 50.34732,
       "libelle": "TC SIN LE NOBLE",
@@ -329,29 +306,6 @@
   },
   {
     "club": {
-      "code": "50260407",
-      "lat": 45.068825,
-      "libelle": "MOURS ST EUSEBE TC",
-      "lng": 5.050124
-    },
-    "dateDebut": "2026-10-04",
-    "dateFin": "2026-10-04",
-    "distance": 298482.3,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82686289",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "PK 25",
-    "naturesEpreuves": [
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "Mours-saint-eusèbe"
-  },
-  {
-    "club": {
       "code": "60810218",
       "lat": 43.932716,
       "libelle": "AS PTT ALBI TENNIS CLUB",
@@ -398,6 +352,29 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "CERGY"
+  },
+  {
+    "club": {
+      "code": "50260407",
+      "lat": 45.068825,
+      "libelle": "MOURS ST EUSEBE TC",
+      "lng": 5.050124
+    },
+    "dateDebut": "2026-10-04",
+    "dateFin": "2026-10-04",
+    "distance": 298482.3,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686289",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "PK 25",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "Mours-saint-eusèbe"
   },
   {
     "club": {
@@ -449,6 +426,31 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "FREVENT"
+  },
+  {
+    "club": {
+      "code": "55540108",
+      "lat": 48.619144,
+      "libelle": "LUDRES TC",
+      "lng": 6.165068
+    },
+    "dateDebut": "2026-10-09",
+    "dateFin": "2026-10-09",
+    "distance": 391086.75,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82683010",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Pick'n'Ludres n°1",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LUDRES"
   },
   {
     "club": {
@@ -641,6 +643,31 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "TOURLY"
+  },
+  {
+    "club": {
+      "code": "55880426",
+      "lat": 48.365734,
+      "libelle": "TPPC PAYS DES ABBAYES",
+      "lng": 6.862725
+    },
+    "dateDebut": "2026-10-10",
+    "dateFin": "2026-10-11",
+    "distance": 421936.22,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82685287",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 Etival - Octobre Rose",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ETIVAL CLAIREFONTAINE"
   },
   {
     "club": {
@@ -893,6 +920,32 @@
   },
   {
     "club": {
+      "code": "55510066",
+      "lat": 49.137375,
+      "libelle": "CADM MOURMELON",
+      "lng": 4.359939
+    },
+    "dateDebut": "2026-10-24",
+    "dateFin": "2026-10-25",
+    "distance": 336681.16,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82683774",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "MOURMELON - K100",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "MOURMELON LE GRAND"
+  },
+  {
+    "club": {
       "code": "59160562",
       "lat": 45.710403,
       "libelle": "ASNIERES SUR NOUERE TC",
@@ -960,29 +1013,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "LE MESNIL EN THELLE"
-  },
-  {
-    "club": {
-      "code": "51390019",
-      "lat": 47.050056,
-      "libelle": "TAVAUX ST AUBIN TENNIS GRAND DOLE",
-      "lng": 5.413884
-    },
-    "dateDebut": "2026-10-31",
-    "dateFin": "2026-11-01",
-    "distance": 272760.84,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82684864",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K100 PICKLEBALL OCTOBRE",
-    "naturesEpreuves": [
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "TAVAUX"
   },
   {
     "club": {
@@ -1055,6 +1085,32 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "CIRES les MELLO"
+  },
+  {
+    "club": {
+      "code": "51390019",
+      "lat": 47.050056,
+      "libelle": "TAVAUX ST AUBIN TENNIS GRAND DOLE",
+      "lng": 5.413884
+    },
+    "dateDebut": "2026-10-31",
+    "dateFin": "2026-11-01",
+    "distance": 272760.84,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82684864",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 PICKLEBALL OCTOBRE",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "TAVAUX"
   },
   {
     "club": {
@@ -1207,6 +1263,31 @@
   },
   {
     "club": {
+      "code": "50630182",
+      "lat": 46.16218,
+      "libelle": "TENNIS PICKELBALL PASSION MONTACUTAIN",
+      "lng": 2.82304
+    },
+    "dateDebut": "2026-11-11",
+    "dateFin": "2026-11-11",
+    "distance": 86873.29,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82654467",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "2e tournoi d'hiver PickleBall de Montaigut",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "St Eloy les mines "
+  },
+  {
+    "club": {
       "code": "50740584",
       "lat": 46.076077,
       "libelle": "THYEZ T.C.",
@@ -1231,31 +1312,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "THYEZ"
-  },
-  {
-    "club": {
-      "code": "50630182",
-      "lat": 46.16218,
-      "libelle": "TENNIS PICKELBALL PASSION MONTACUTAIN",
-      "lng": 2.82304
-    },
-    "dateDebut": "2026-11-21",
-    "dateFin": "2026-11-21",
-    "distance": 86873.29,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82654467",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "2e tournoi d'hiver PickleBall de Montaigut",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "St Eloy les mines "
   },
   {
     "club": {
@@ -1334,31 +1390,6 @@
   },
   {
     "club": {
-      "code": "57L00930",
-      "lat": 48.917965,
-      "libelle": "CD SEINE ST DENIS",
-      "lng": 2.490397
-    },
-    "dateDebut": "2026-12-05",
-    "dateFin": "2026-12-06",
-    "distance": 261275.83,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82678945",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi Pickleball K250",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "AULNAY SOUS BOIS"
-  },
-  {
-    "club": {
       "code": "50630248",
       "lat": 46.037857,
       "libelle": "ST-GERVAIS TENNIS (U.S)",
@@ -1408,6 +1439,31 @@
   },
   {
     "club": {
+      "code": "57L00930",
+      "lat": 48.917965,
+      "libelle": "CD SEINE ST DENIS",
+      "lng": 2.490397
+    },
+    "dateDebut": "2026-12-05",
+    "dateFin": "2026-12-06",
+    "distance": 261275.83,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82678945",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi Pickleball K250",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "AULNAY SOUS BOIS"
+  },
+  {
+    "club": {
       "code": "56620166",
       "lat": 50.276234,
       "libelle": "TC FREVENTIN",
@@ -1454,6 +1510,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ST MAURICE DE GOURDANS"
+  },
+  {
+    "club": {
+      "code": "61728004",
+      "lat": 48.01709,
+      "libelle": "SMASH ZONE SAS",
+      "lng": 0.15012
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2026-12-13",
+    "distance": 204649.52,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686065",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 SMASH ZONE - Le Mans",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LE MANS"
   },
   {
     "club": {
