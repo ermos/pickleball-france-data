@@ -3,7 +3,7 @@ name: Update DUPR players
 on:
   schedule:
     # off the hour: GitHub delays or drops scheduled runs at :00 under load
-    - cron: "7 2 */3 * *" # every 3 days 02:07 UTC, ~35 min
+    - cron: "7 2 */3 * *" # every 3 days 02:07 UTC, ~10 min
   workflow_dispatch:
 
 # Shared group across the 3 data workflows: they all push to main, so they run one at a time
