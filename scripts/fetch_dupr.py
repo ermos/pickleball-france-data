@@ -21,9 +21,6 @@ OUT = Path(__file__).resolve().parent.parent / "data" / "dupr" / "joueurs.json"
 RADIUS = 160934
 PAGE = 25
 MAX_OFFSET = 10000
-# Pagination is unstable (players at the same distance come back in random order across
-# pages, ~1% missed per pass), so a cell is re-paginated until every id has been seen.
-MAX_PASSES = 6
 # Metropolitan France: 1.5° lat x 2° lng cells, half diagonal ~115 km < radius.
 # The north is covered by a single inland cell so no circle reaches England (and its
 # thousands of players, which would hit the 10000 offset cap): (49, -5) dropped
@@ -56,8 +53,8 @@ def get(token, path):
         return json.load(r)["result"]
 
 
-def search(token, lat, lng, offset):
-    body = {"limit": PAGE, "offset": offset, "query": "*", "exclude": [], "includeUnclaimedPlayers": True,
+def search(token, lat, lng, offset, exclude=()):
+    body = {"limit": PAGE, "offset": offset, "query": "*", "exclude": sorted(exclude), "includeUnclaimedPlayers": True,
             "filter": {"lat": lat, "lng": lng, "rating": {}, "radiusInMeters": RADIUS}}
     req = urllib.request.Request(API, data=json.dumps(body).encode(), headers={
         "Content-Type": "application/json",
@@ -77,21 +74,27 @@ def main():
         Path(os.environ["DUPR_REFRESH_TOKEN_OUT"]).write_text(rt)
     players = {}
     for lat, lng in METRO + OVERSEAS:
-        seen, total, passes = set(), 1, 0
-        while len(seen) < total and passes < MAX_PASSES:
-            passes, offset = passes + 1, 0
-            while offset < total:
-                res = search(token, lat, lng, offset)
-                total = res["total"]
-                if total > MAX_OFFSET:
-                    raise SystemExit(f"{total} players around {lat},{lng}, split this cell")
-                for h in res["hits"]:
-                    seen.add(h["id"])
-                    # distance depends on the query center, drop it to keep diffs clean
-                    players[h["id"]] = {k: v for k, v in h.items() if not k.startswith("distance")}
-                offset += PAGE
-                time.sleep(0.2)
-        print(f"{lat},{lng}: {len(seen)}/{total} joueurs en {passes} passes, {len(players)} cumulés")
+        def keep(hits):
+            for h in hits:
+                seen.add(h["id"])
+                # distance depends on the query center, drop it to keep diffs clean
+                players[h["id"]] = {k: v for k, v in h.items() if not k.startswith("distance")}
+            time.sleep(0.2)
+            return hits
+
+        seen, total, offset, fills = set(), 1, 0, 0
+        while offset < total:
+            res = search(token, lat, lng, offset)
+            total = res["total"]
+            if total > MAX_OFFSET:
+                raise SystemExit(f"{total} players around {lat},{lng}, split this cell")
+            keep(res["hits"])
+            offset += PAGE
+        # Pagination is unstable (players at the same distance come back in random order
+        # across pages, ~1% missed), so the missing ones are fetched by excluding every seen id.
+        while len(seen) < total and keep(search(token, lat, lng, 0, seen)["hits"]):
+            fills += 1
+        print(f"{lat},{lng}: {len(seen)}/{total} joueurs (+{fills} rattrapages), {len(players)} cumulés")
     # search never returns the account owning the token, add it back with the same fields
     me = get(token, f"/player/v1.0/{get(token, '/user/v1.0/profile')['id']}")
     fields = set().union(*players.values())
