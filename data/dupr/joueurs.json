@@ -25810,37 +25810,6 @@
     "badges": []
   },
   {
-    "id": 4630232350,
-    "fullName": "Pickle Zone",
-    "shortAddress": "Paris, IDF, FR",
-    "gender": "MALE",
-    "age": 26,
-    "ratings": {
-      "singles": "NR",
-      "singlesVerified": "NR",
-      "singlesProvisional": false,
-      "doubles": "NR",
-      "doublesVerified": "NR",
-      "doublesProvisional": false,
-      "defaultRating": "DOUBLES",
-      "provisionalRatings": {
-        "singlesRating": null,
-        "doublesRating": null,
-        "coach": null
-      }
-    },
-    "enablePrivacy": false,
-    "isPlayer1": true,
-    "verifiedEmail": true,
-    "registered": true,
-    "duprId": "ZWNLPQ",
-    "showRatingBanner": false,
-    "status": "ACTIVE",
-    "sponsor": {},
-    "lucraConnected": false,
-    "badges": []
-  },
-  {
     "id": 4630986340,
     "fullName": "Cris Francisco Perez",
     "shortAddress": "Valladolid, CL, ES",

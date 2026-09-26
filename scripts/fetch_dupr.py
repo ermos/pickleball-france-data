@@ -44,15 +44,6 @@ def refresh(rt):
     return cookies["__Host-dupr_at"], cookies.get("__Host-dupr_rt", rt)
 
 
-def get(token, path):
-    req = urllib.request.Request(f"https://api.dupr.com{path}", headers={
-        "Origin": "https://dashboard.dupr.com",
-        "Cookie": f"__Host-dupr_at={token}",
-    })
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return json.load(r)["result"]
-
-
 def search(token, lat, lng, offset, exclude=()):
     body = {"limit": PAGE, "offset": offset, "query": "*", "exclude": sorted(exclude), "includeUnclaimedPlayers": True,
             "filter": {"lat": lat, "lng": lng, "rating": {}, "radiusInMeters": RADIUS}}
@@ -95,10 +86,6 @@ def main():
         while len(seen) < total and keep(search(token, lat, lng, 0, seen)["hits"]):
             fills += 1
         print(f"{lat},{lng}: {len(seen)}/{total} joueurs (+{fills} rattrapages), {len(players)} cumulés")
-    # search never returns the account owning the token, add it back with the same fields
-    me = get(token, f"/player/v1.0/{get(token, '/user/v1.0/profile')['id']}")
-    fields = set().union(*players.values())
-    players[me["id"]] = {k: v for k, v in me.items() if k in fields}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(sorted(players.values(), key=lambda p: p["id"]), ensure_ascii=False, indent=2) + "\n")
     print(f"{len(players)} joueurs sauvegardés dans {OUT}")
