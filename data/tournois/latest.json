@@ -1,112 +1,6 @@
 [
   {
     "club": {
-      "code": "56590149",
-      "lat": 50.34732,
-      "libelle": "TC SIN LE NOBLE",
-      "lng": 3.11159
-    },
-    "dateDebut": "2026-09-25",
-    "dateFin": "2026-09-27",
-    "distance": 425947.9,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82661319",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K100 Sin leNoble",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX",
-      "SD",
-      "SM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "SIN LE NOBLE"
-  },
-  {
-    "club": {
-      "code": "50698002",
-      "lat": 45.69613,
-      "libelle": "1NPICK",
-      "lng": 4.93891
-    },
-    "dateDebut": "2026-09-25",
-    "dateFin": "2026-09-27",
-    "distance": 255710.61,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82673127",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K100 +50 inpick - House of Pickleball",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX",
-      "SD",
-      "SM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "Saint-Priest"
-  },
-  {
-    "club": {
-      "code": "52358009",
-      "lat": 48.19109,
-      "libelle": "DINK'IT",
-      "lng": -1.72972
-    },
-    "dateDebut": "2026-09-25",
-    "dateFin": "2026-09-27",
-    "distance": 324495.1,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82676350",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K100 de rentrée",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX",
-      "SD",
-      "SM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "LA CHAPELLE DES FOUGERETZ"
-  },
-  {
-    "club": {
-      "code": "57780411",
-      "lat": 48.86523,
-      "libelle": "A.S. LOUVECIENNES",
-      "lng": 2.122427
-    },
-    "dateDebut": "2026-09-26",
-    "dateFin": "2026-09-27",
-    "distance": 252117.69,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82672918",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Joola Pickleball Tour Ile de France",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "LOUVECIENNES"
-  },
-  {
-    "club": {
       "code": "59860055",
       "lat": 46.681515,
       "libelle": "VAL VERT DU CLAIN TC",
@@ -306,31 +200,6 @@
   },
   {
     "club": {
-      "code": "60810218",
-      "lat": 43.932716,
-      "libelle": "AS PTT ALBI TENNIS CLUB",
-      "lng": 2.170933
-    },
-    "dateDebut": "2026-10-04",
-    "dateFin": "2026-10-04",
-    "distance": 297783.56,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82686333",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Circuit Occitanie - K25 ASPTT TENNIS ALBI",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ALBI"
-  },
-  {
-    "club": {
       "code": "57950515",
       "lat": 49.054882,
       "libelle": "Pickleball Vexin Centre",
@@ -378,27 +247,28 @@
   },
   {
     "club": {
-      "code": "53280197",
-      "lat": 48.44555,
-      "libelle": "MSD CHARTRES TENNIS",
-      "lng": 1.524355
+      "code": "60810218",
+      "lat": 43.932716,
+      "libelle": "AS PTT ALBI TENNIS CLUB",
+      "lng": 2.170933
     },
-    "dateDebut": "2026-10-09",
-    "dateFin": "2026-10-09",
-    "distance": 206657.58,
+    "dateDebut": "2026-10-04",
+    "dateFin": "2026-10-04",
+    "distance": 297783.56,
     "favori": false,
     "idFavori": null,
-    "idHomologation": "FED_82655791",
+    "idHomologation": "FED_82686333",
     "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 SOIREE - MSD CHARTRES",
+    "libelleTournoi": "Circuit Occitanie - K25 ASPTT TENNIS ALBI",
     "naturesEpreuves": [
       "DD",
-      "DM"
+      "DM",
+      "DX"
     ],
     "paiementEnLigne": false,
     "pratique": "PICKLE",
     "tournoiInterne": null,
-    "ville": "CHARTRES"
+    "ville": "ALBI"
   },
   {
     "club": {
@@ -454,44 +324,19 @@
   },
   {
     "club": {
-      "code": "50730504",
-      "lat": 45.57132,
-      "libelle": "BARBY TENNIS CLUB",
-      "lng": 5.981963
+      "code": "53280197",
+      "lat": 48.44555,
+      "libelle": "MSD CHARTRES TENNIS",
+      "lng": 1.524355
     },
-    "dateDebut": "2026-10-10",
-    "dateFin": "2026-10-11",
-    "distance": 335863.3,
+    "dateDebut": "2026-10-09",
+    "dateFin": "2026-10-09",
+    "distance": 206657.58,
     "favori": false,
     "idFavori": null,
-    "idHomologation": "FED_82650107",
+    "idHomologation": "FED_82655791",
     "inscriptionEnLigne": false,
-    "libelleTournoi": "K100",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "BARBY"
-  },
-  {
-    "club": {
-      "code": "62060302",
-      "lat": 43.74502,
-      "libelle": "TENNIS DES BAOUS",
-      "lng": 7.155623
-    },
-    "dateDebut": "2026-10-10",
-    "dateFin": "2026-10-10",
-    "distance": 520856.84,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82682373",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 Saint-Jeannet",
+    "libelleTournoi": "K25 SOIREE - MSD CHARTRES",
     "naturesEpreuves": [
       "DD",
       "DM"
@@ -499,7 +344,7 @@
     "paiementEnLigne": false,
     "pratique": "PICKLE",
     "tournoiInterne": null,
-    "ville": "ST JEANNET"
+    "ville": "CHARTRES"
   },
   {
     "club": {
@@ -668,6 +513,55 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ETIVAL CLAIREFONTAINE"
+  },
+  {
+    "club": {
+      "code": "62060302",
+      "lat": 43.74502,
+      "libelle": "TENNIS DES BAOUS",
+      "lng": 7.155623
+    },
+    "dateDebut": "2026-10-10",
+    "dateFin": "2026-10-10",
+    "distance": 520856.84,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82682373",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 Saint-Jeannet",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ST JEANNET"
+  },
+  {
+    "club": {
+      "code": "50730504",
+      "lat": 45.57132,
+      "libelle": "BARBY TENNIS CLUB",
+      "lng": 5.981963
+    },
+    "dateDebut": "2026-10-10",
+    "dateFin": "2026-10-11",
+    "distance": 335863.3,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82650107",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "BARBY"
   },
   {
     "club": {
@@ -1114,6 +1008,31 @@
   },
   {
     "club": {
+      "code": "61850433",
+      "lat": 46.709785,
+      "libelle": "TC RIEZ OCEAN",
+      "lng": -1.963058
+    },
+    "dateDebut": "2026-10-31",
+    "dateFin": "2026-11-01",
+    "distance": 294150.6,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686645",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 Tennis Club Riez Ocean",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "SAINT HILAIRE DE RIEZ"
+  },
+  {
+    "club": {
       "code": "60110683",
       "lat": 43.180016,
       "libelle": "TENNIS CLUB LE BRIOLET",
@@ -1337,6 +1256,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "STE CLOTILDE"
+  },
+  {
+    "club": {
+      "code": "51210004",
+      "lat": 47.304394,
+      "libelle": "CHEVIGNY TENNIS CLUB",
+      "lng": 5.12719
+    },
+    "dateDebut": "2026-11-22",
+    "dateFin": "2026-11-22",
+    "distance": 257870.27,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82652093",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi d'Automne de Pickleball du Chevigny TC",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "CHEVIGNY ST SAUVEUR"
   },
   {
     "club": {
