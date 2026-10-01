@@ -127,31 +127,6 @@
   },
   {
     "club": {
-      "code": "60300030",
-      "lat": 44.120132,
-      "libelle": "TC ALESIEN",
-      "lng": 4.088443
-    },
-    "dateDebut": "2026-10-04",
-    "dateFin": "2026-10-04",
-    "distance": 325222.28,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82660750",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 TCA",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ALES"
-  },
-  {
-    "club": {
       "code": "56600185",
       "lat": 49.345024,
       "libelle": "TENNIS CHEVRIERES GRANDFRESNOY",
@@ -269,6 +244,31 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ALBI"
+  },
+  {
+    "club": {
+      "code": "60300030",
+      "lat": 44.120132,
+      "libelle": "TC ALESIEN",
+      "lng": 4.088443
+    },
+    "dateDebut": "2026-10-04",
+    "dateFin": "2026-10-04",
+    "distance": 325222.28,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82660750",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 TCA",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ALES"
   },
   {
     "club": {
@@ -565,6 +565,30 @@
   },
   {
     "club": {
+      "code": "59170069",
+      "lat": 46.023403,
+      "libelle": "AULNAY LOULAY TC",
+      "lng": -0.354792
+    },
+    "dateDebut": "2026-10-10",
+    "dateFin": "2026-10-10",
+    "distance": 183946.52,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82684907",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 3.0 Aulnay",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "AULNAY"
+  },
+  {
+    "club": {
       "code": "58270775",
       "lat": 49.355976,
       "libelle": "BOURG ACHARD SAINT OUEN - T2R",
@@ -586,6 +610,31 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ST OUEN DE THOUBERVILLE"
+  },
+  {
+    "club": {
+      "code": "57950008",
+      "lat": 49.08202,
+      "libelle": "MARLY LA VILLE TENNIS CLUB",
+      "lng": 2.500253
+    },
+    "dateDebut": "2026-10-11",
+    "dateFin": "2026-10-11",
+    "distance": 279370.56,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82684567",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 Marly",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "MARLY LA VILLE"
   },
   {
     "club": {
@@ -689,6 +738,30 @@
   },
   {
     "club": {
+      "code": "60650029",
+      "lat": 43.10598,
+      "libelle": "LOURDES TENNIS CLUB",
+      "lng": -0.04073
+    },
+    "dateDebut": "2026-10-17",
+    "dateFin": "2026-10-17",
+    "distance": 417527.0,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686584",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 TC lourdes",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LOURDES"
+  },
+  {
+    "club": {
       "code": "56600446",
       "lat": 49.35529,
       "libelle": "TENNIS CLUB HERMES",
@@ -710,6 +783,54 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "HERMES"
+  },
+  {
+    "club": {
+      "code": "59170219",
+      "lat": 45.60147,
+      "libelle": "SEMUSSAC TC",
+      "lng": -0.914583
+    },
+    "dateDebut": "2026-10-18",
+    "dateFin": "2026-10-18",
+    "distance": 243108.66,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686924",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 OCTOBRE ROSE",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "SEMUSSAC"
+  },
+  {
+    "club": {
+      "code": "60340141",
+      "lat": 43.560574,
+      "libelle": "TC LA GRANDE MOTTE",
+      "lng": 4.099944
+    },
+    "dateDebut": "2026-10-18",
+    "dateFin": "2026-10-18",
+    "distance": 380259.0,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82688059",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "CIRCUIT K25 OCCITANIE - LA GRANDE MOTTE",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LA GRANDE MOTTE"
   },
   {
     "club": {
@@ -761,6 +882,33 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "LEVES"
+  },
+  {
+    "club": {
+      "code": "52358009",
+      "lat": 48.19109,
+      "libelle": "DINK'IT",
+      "lng": -1.72972
+    },
+    "dateDebut": "2026-10-23",
+    "dateFin": "2026-10-25",
+    "distance": 324495.1,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686909",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 D'halloween ",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LA CHAPELLE DES FOUGERETZ"
   },
   {
     "club": {
@@ -837,6 +985,32 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "MOURMELON LE GRAND"
+  },
+  {
+    "club": {
+      "code": "62830130",
+      "lat": 43.433308,
+      "libelle": "SAINT RAPHAEL CC",
+      "lng": 6.807242
+    },
+    "dateDebut": "2026-10-24",
+    "dateFin": "2026-10-25",
+    "distance": 523009.6,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686838",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 Saint Raphaël CC",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX",
+      "SD"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ST RAPHAEL"
   },
   {
     "club": {
@@ -1030,6 +1204,31 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "SAINT HILAIRE DE RIEZ"
+  },
+  {
+    "club": {
+      "code": "60120469",
+      "lat": 44.275154,
+      "libelle": "TENNIS CLUB PADEL BARAQUEVILLE",
+      "lng": 2.434974
+    },
+    "dateDebut": "2026-10-31",
+    "dateFin": "2026-10-31",
+    "distance": 262372.06,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686304",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "CIRCUIT OCCITANIE K25 BARAQUEVILLE (12)",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "BARAQUEVILLE"
   },
   {
     "club": {
@@ -1259,6 +1458,31 @@
   },
   {
     "club": {
+      "code": "60310166",
+      "lat": 43.6766,
+      "libelle": "AUCAMVILLE TENNIS CLUB",
+      "lng": 1.418798
+    },
+    "dateDebut": "2026-11-21",
+    "dateFin": "2026-11-21",
+    "distance": 327515.97,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82687322",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Circuit K25 - Aucamville",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "AUCAMVILLE"
+  },
+  {
+    "club": {
       "code": "51210004",
       "lat": 47.304394,
       "libelle": "CHEVIGNY TENNIS CLUB",
@@ -1330,6 +1554,33 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ST JOSEPH"
+  },
+  {
+    "club": {
+      "code": "50030238",
+      "lat": 46.56146,
+      "libelle": "NEUVY LES MOULINS TC",
+      "lng": 3.289994
+    },
+    "dateDebut": "2026-11-28",
+    "dateFin": "2026-11-29",
+    "distance": 107222.46,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82686713",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 de l'automne à Neuvy (03)",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "NEUVY"
   },
   {
     "club": {
@@ -1477,6 +1728,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "LE MANS"
+  },
+  {
+    "club": {
+      "code": "67970029",
+      "lat": -21.27155,
+      "libelle": "T.C. DU TAMPON",
+      "lng": 55.520863
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2026-12-13",
+    "distance": 9266667.0,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82688045",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 tournoi TCT",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LE TAMPON"
   },
   {
     "club": {
