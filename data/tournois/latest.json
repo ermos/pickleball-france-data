@@ -81,52 +81,6 @@
   },
   {
     "club": {
-      "code": "50260407",
-      "lat": 45.068825,
-      "libelle": "MOURS ST EUSEBE TC",
-      "lng": 5.050124
-    },
-    "dateDebut": "2026-10-03",
-    "dateFin": "2026-10-03",
-    "distance": 298482.3,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82683754",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "PK 25",
-    "naturesEpreuves": [
-      "DD"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "Mours-saint-eusèbe"
-  },
-  {
-    "club": {
-      "code": "50260407",
-      "lat": 45.068825,
-      "libelle": "MOURS ST EUSEBE TC",
-      "lng": 5.050124
-    },
-    "dateDebut": "2026-10-03",
-    "dateFin": "2026-10-03",
-    "distance": 298482.3,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82686287",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "PK 25",
-    "naturesEpreuves": [
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "Mours-saint-eusèbe"
-  },
-  {
-    "club": {
       "code": "56600185",
       "lat": 49.345024,
       "libelle": "TENNIS CHEVRIERES GRANDFRESNOY",
@@ -348,30 +302,6 @@
   },
   {
     "club": {
-      "code": "59860049",
-      "lat": 46.431404,
-      "libelle": "MONTMORILLON TC",
-      "lng": 0.883744
-    },
-    "dateDebut": "2026-10-10",
-    "dateFin": "2026-10-10",
-    "distance": 79210.01,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82678290",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 octobre rose Montmorillon",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "MONTMORILLON"
-  },
-  {
-    "club": {
       "code": "60810327",
       "lat": 43.76811,
       "libelle": "REALMONT TENNIS CLUB",
@@ -394,29 +324,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "REALMONT"
-  },
-  {
-    "club": {
-      "code": "60820733",
-      "lat": 44.041183,
-      "libelle": "PADEL TOLOSA MONTAUBAN ACADEMIE",
-      "lng": 1.36309
-    },
-    "dateDebut": "2026-10-10",
-    "dateFin": "2026-10-10",
-    "distance": 287843.16,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82683611",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 DOUBLE MATIN DU 10/10",
-    "naturesEpreuves": [
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "MONTAUBAN"
   },
   {
     "club": {
@@ -589,27 +496,52 @@
   },
   {
     "club": {
-      "code": "58270775",
-      "lat": 49.355976,
-      "libelle": "BOURG ACHARD SAINT OUEN - T2R",
-      "lng": 0.890422
+      "code": "60300251",
+      "lat": 44.131252,
+      "libelle": "TC MONS ST PRIVAT",
+      "lng": 4.172318
     },
-    "dateDebut": "2026-10-11",
-    "dateFin": "2026-10-11",
-    "distance": 314953.8,
+    "dateDebut": "2026-10-10",
+    "dateFin": "2026-10-10",
+    "distance": 327683.0,
     "favori": false,
     "idFavori": null,
-    "idHomologation": "FED_82683680",
+    "idHomologation": "FED_82686419",
     "inscriptionEnLigne": false,
-    "libelleTournoi": "1er Tournois Pickleball T2R K25",
+    "libelleTournoi": "Circuit K25 - 2ème K25 TC MONS SAINT PRIVAT",
     "naturesEpreuves": [
-      "SD",
-      "SM"
+      "DD",
+      "DM",
+      "DX"
     ],
     "paiementEnLigne": false,
     "pratique": "PICKLE",
     "tournoiInterne": null,
-    "ville": "ST OUEN DE THOUBERVILLE"
+    "ville": "MONS"
+  },
+  {
+    "club": {
+      "code": "59860049",
+      "lat": 46.431404,
+      "libelle": "MONTMORILLON TC",
+      "lng": 0.883744
+    },
+    "dateDebut": "2026-10-10",
+    "dateFin": "2026-10-10",
+    "distance": 79210.01,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82678290",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 octobre rose Montmorillon",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "MONTMORILLON"
   },
   {
     "club": {
@@ -635,6 +567,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "MARLY LA VILLE"
+  },
+  {
+    "club": {
+      "code": "58270775",
+      "lat": 49.355976,
+      "libelle": "BOURG ACHARD SAINT OUEN - T2R",
+      "lng": 0.890422
+    },
+    "dateDebut": "2026-10-11",
+    "dateFin": "2026-10-11",
+    "distance": 314953.8,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82683680",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "1er Tournois Pickleball T2R K25",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ST OUEN DE THOUBERVILLE"
   },
   {
     "club": {
@@ -1483,30 +1439,6 @@
   },
   {
     "club": {
-      "code": "51210004",
-      "lat": 47.304394,
-      "libelle": "CHEVIGNY TENNIS CLUB",
-      "lng": 5.12719
-    },
-    "dateDebut": "2026-11-22",
-    "dateFin": "2026-11-22",
-    "distance": 257870.27,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82652093",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi d'Automne de Pickleball du Chevigny TC",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "CHEVIGNY ST SAUVEUR"
-  },
-  {
-    "club": {
       "code": "53280197",
       "lat": 48.44555,
       "libelle": "MSD CHARTRES TENNIS",
@@ -1529,6 +1461,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "CHARTRES"
+  },
+  {
+    "club": {
+      "code": "51210004",
+      "lat": 47.304394,
+      "libelle": "CHEVIGNY TENNIS CLUB",
+      "lng": 5.12719
+    },
+    "dateDebut": "2026-11-22",
+    "dateFin": "2026-11-22",
+    "distance": 257870.27,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82652093",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi d'Automne de Pickleball du Chevigny TC",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "CHEVIGNY ST SAUVEUR"
   },
   {
     "club": {
@@ -1609,30 +1565,6 @@
   },
   {
     "club": {
-      "code": "60310166",
-      "lat": 43.6766,
-      "libelle": "AUCAMVILLE TENNIS CLUB",
-      "lng": 1.418798
-    },
-    "dateDebut": "2026-12-05",
-    "dateFin": "2026-12-05",
-    "distance": 327515.97,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82678192",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 Téléthon Aucamville",
-    "naturesEpreuves": [
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "AUCAMVILLE"
-  },
-  {
-    "club": {
       "code": "57L00930",
       "lat": 48.917965,
       "libelle": "CD SEINE ST DENIS",
@@ -1655,6 +1587,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "AULNAY SOUS BOIS"
+  },
+  {
+    "club": {
+      "code": "60310166",
+      "lat": 43.6766,
+      "libelle": "AUCAMVILLE TENNIS CLUB",
+      "lng": 1.418798
+    },
+    "dateDebut": "2026-12-05",
+    "dateFin": "2026-12-05",
+    "distance": 327515.97,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82678192",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 Téléthon Aucamville",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "AUCAMVILLE"
   },
   {
     "club": {
