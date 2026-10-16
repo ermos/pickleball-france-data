@@ -471,6 +471,30 @@
   },
   {
     "club": {
+      "code": "50070013",
+      "lat": 45.07175,
+      "libelle": "TOURNON TAIN TC",
+      "lng": 4.814553
+    },
+    "dateDebut": "2026-10-24",
+    "dateFin": "2026-10-24",
+    "distance": 283504.66,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82685987",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi d'Octobre",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "TOURNON SUR RHONE"
+  },
+  {
+    "club": {
       "code": "55510066",
       "lat": 49.137375,
       "libelle": "CADM MOURMELON",
@@ -494,30 +518,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "MOURMELON LE GRAND"
-  },
-  {
-    "club": {
-      "code": "50070013",
-      "lat": 45.07175,
-      "libelle": "TOURNON TAIN TC",
-      "lng": 4.814553
-    },
-    "dateDebut": "2026-10-24",
-    "dateFin": "2026-10-24",
-    "distance": 283504.66,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82685987",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi d'Octobre",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "TOURNON SUR RHONE"
   },
   {
     "club": {
@@ -566,6 +566,29 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ASNIERES SUR NOUERE"
+  },
+  {
+    "club": {
+      "code": "50070013",
+      "lat": 45.07175,
+      "libelle": "TOURNON TAIN TC",
+      "lng": 4.814553
+    },
+    "dateDebut": "2026-10-25",
+    "dateFin": "2026-10-25",
+    "distance": 283504.66,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82690796",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi mixte Octobre 2026",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "TOURNON SUR RHONE"
   },
   {
     "club": {
@@ -1038,6 +1061,53 @@
   },
   {
     "club": {
+      "code": "52220404",
+      "lat": 48.489872,
+      "libelle": "LANGUEUX TENNIS CLUB",
+      "lng": -2.715319
+    },
+    "dateDebut": "2026-11-11",
+    "dateFin": "2026-11-11",
+    "distance": 404117.03,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82694751",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi Pickleball K25 TC Langueux DD et DM",
+    "naturesEpreuves": [
+      "DD",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LANGUEUX"
+  },
+  {
+    "club": {
+      "code": "51890298",
+      "lat": 47.868896,
+      "libelle": "FLEURY LA VALLEE A.S.",
+      "lng": 3.454074
+    },
+    "dateDebut": "2026-11-13",
+    "dateFin": "2026-11-13",
+    "distance": 183776.28,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82691736",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "tournoi de pickleball Fleury tennis",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "FLEURY LA VALLEE"
+  },
+  {
+    "club": {
       "code": "60308014",
       "lat": 43.806183,
       "libelle": "PICKLEBALL TIME",
@@ -1157,6 +1227,31 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "COMPIEGNE"
+  },
+  {
+    "club": {
+      "code": "55670255",
+      "lat": 48.36421,
+      "libelle": "TC EPFIG",
+      "lng": 7.458005
+    },
+    "dateDebut": "2026-11-15",
+    "dateFin": "2026-11-15",
+    "distance": 461921.3,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82689562",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 Epfig 1",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "EPFIG"
   },
   {
     "club": {
@@ -1332,6 +1427,31 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "TOURNON SUR RHONE"
+  },
+  {
+    "club": {
+      "code": "56600088",
+      "lat": 49.25583,
+      "libelle": "MONTATAIRE TENNIS CLUB",
+      "lng": 2.430533
+    },
+    "dateDebut": "2026-11-22",
+    "dateFin": "2026-11-22",
+    "distance": 297693.6,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82659574",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "PICKLEBALL K25 DU TC MONTATAIRE",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "MONTATAIRE"
   },
   {
     "club": {
@@ -1803,5 +1923,29 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "DOULLENS"
+  },
+  {
+    "club": {
+      "code": "53280197",
+      "lat": 48.44555,
+      "libelle": "MSD CHARTRES TENNIS",
+      "lng": 1.524355
+    },
+    "dateDebut": "2027-01-15",
+    "dateFin": "2027-01-15",
+    "distance": 206657.58,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82655795",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 SOIREE - MSD CHARTRES",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "CHARTRES"
   }
 ]
