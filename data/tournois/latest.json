@@ -1,298 +1,6 @@
 [
   {
     "club": {
-      "code": "56800082",
-      "lat": 50.16375,
-      "libelle": "DOULLENS TENNIS CLUB",
-      "lng": 2.354872
-    },
-    "dateDebut": "2026-10-16",
-    "dateFin": "2026-10-18",
-    "distance": 397392.56,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82668195",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K100 d'automne Doullens",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX",
-      "SD",
-      "SM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "DOULLENS"
-  },
-  {
-    "club": {
-      "code": "60318007",
-      "lat": 43.632603,
-      "libelle": "SAS SMASH CLUB",
-      "lng": 1.410771
-    },
-    "dateDebut": "2026-10-16",
-    "dateFin": "2026-10-17",
-    "distance": 332449.53,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82689611",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 circuit Occitanie",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "TOULOUSE"
-  },
-  {
-    "club": {
-      "code": "53450527",
-      "lat": 47.863323,
-      "libelle": "T.C. SAINT HILAIRE SAINT MESMIN",
-      "lng": 1.835065
-    },
-    "dateDebut": "2026-10-16",
-    "dateFin": "2026-10-16",
-    "distance": 140160.06,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82682334",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 Double mixte",
-    "naturesEpreuves": [
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ST HILAIRE ST MESMIN"
-  },
-  {
-    "club": {
-      "code": "57910461",
-      "lat": 48.617126,
-      "libelle": "BONDOUFLE A.C.",
-      "lng": 2.384038
-    },
-    "dateDebut": "2026-10-17",
-    "dateFin": "2026-10-18",
-    "distance": 226982.55,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82678050",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Joola Pickleball Tour Ile de France",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "Bondoufle"
-  },
-  {
-    "club": {
-      "code": "50630170",
-      "lat": 45.73559,
-      "libelle": "ROMAGNAT T.C",
-      "lng": 3.104396
-    },
-    "dateDebut": "2026-10-17",
-    "dateFin": "2026-10-17",
-    "distance": 134457.36,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82676801",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "ROMAGNAT PICKLEBALL",
-    "naturesEpreuves": [
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ROMAGNAT"
-  },
-  {
-    "club": {
-      "code": "61720868",
-      "lat": 48.02497,
-      "libelle": "JUST PICKLEBALL",
-      "lng": 0.013861
-    },
-    "dateDebut": "2026-10-17",
-    "dateFin": "2026-10-18",
-    "distance": 212018.5,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82680078",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K100 Just Pickleball Coulans",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "Coulans sur Gée"
-  },
-  {
-    "club": {
-      "code": "60650029",
-      "lat": 43.10598,
-      "libelle": "LOURDES TENNIS CLUB",
-      "lng": -0.04073
-    },
-    "dateDebut": "2026-10-17",
-    "dateFin": "2026-10-17",
-    "distance": 417527.0,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82686584",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 TC lourdes",
-    "naturesEpreuves": [
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "LOURDES"
-  },
-  {
-    "club": {
-      "code": "59170566",
-      "lat": 45.637123,
-      "libelle": "MEDIS TC",
-      "lng": -0.960877
-    },
-    "dateDebut": "2026-10-17",
-    "dateFin": "2026-10-17",
-    "distance": 244455.06,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82690046",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "k100",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "MEDIS"
-  },
-  {
-    "club": {
-      "code": "62830047",
-      "lat": 43.43123,
-      "libelle": "TC VIDAUBANNAIS",
-      "lng": 6.428032
-    },
-    "dateDebut": "2026-10-17",
-    "dateFin": "2026-10-17",
-    "distance": 501579.2,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82689725",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "TOURNOI PICKLEBALL VIDAUBANNAIS K25",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "VIDAUBAN"
-  },
-  {
-    "club": {
-      "code": "56600446",
-      "lat": 49.35529,
-      "libelle": "TENNIS CLUB HERMES",
-      "lng": 2.24485
-    },
-    "dateDebut": "2026-10-18",
-    "dateFin": "2026-10-18",
-    "distance": 307149.22,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82672176",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "PICKLEBALL OCTOBRE ROSE",
-    "naturesEpreuves": [
-      "DD",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "HERMES"
-  },
-  {
-    "club": {
-      "code": "59170219",
-      "lat": 45.60147,
-      "libelle": "SEMUSSAC TC",
-      "lng": -0.914583
-    },
-    "dateDebut": "2026-10-18",
-    "dateFin": "2026-10-18",
-    "distance": 243108.66,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82686924",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K100 OCTOBRE ROSE",
-    "naturesEpreuves": [
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "SEMUSSAC"
-  },
-  {
-    "club": {
-      "code": "60340141",
-      "lat": 43.560574,
-      "libelle": "TC LA GRANDE MOTTE",
-      "lng": 4.099944
-    },
-    "dateDebut": "2026-10-18",
-    "dateFin": "2026-10-18",
-    "distance": 380259.0,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82688059",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "CIRCUIT K25 OCCITANIE - LA GRANDE MOTTE",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "LA GRANDE MOTTE"
-  },
-  {
-    "club": {
       "code": "50690153",
       "lat": 45.937973,
       "libelle": "ANSOIS (TENNIS CLUB)",
@@ -787,6 +495,31 @@
   },
   {
     "club": {
+      "code": "59790041",
+      "lat": 46.413563,
+      "libelle": "SAINT MAIXENT SA",
+      "lng": -0.215991
+    },
+    "dateDebut": "2026-10-31",
+    "dateFin": "2026-11-01",
+    "distance": 162415.28,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82690396",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 double Dames Messieurs et Mixte",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ST MAIXENT L ECOLE"
+  },
+  {
+    "club": {
       "code": "60308014",
       "lat": 43.806183,
       "libelle": "PICKLEBALL TIME",
@@ -810,31 +543,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "NIMES"
-  },
-  {
-    "club": {
-      "code": "59790041",
-      "lat": 46.413563,
-      "libelle": "SAINT MAIXENT SA",
-      "lng": -0.215991
-    },
-    "dateDebut": "2026-10-31",
-    "dateFin": "2026-11-01",
-    "distance": 162415.28,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82690396",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K100 double Dames Messieurs et Mixte",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ST MAIXENT L ECOLE"
   },
   {
     "club": {
@@ -911,6 +619,33 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "DOULLENS"
+  },
+  {
+    "club": {
+      "code": "60820688",
+      "lat": 44.1911,
+      "libelle": "MOLIERES T.C MALIVERT",
+      "lng": 1.2857
+    },
+    "dateDebut": "2026-11-07",
+    "dateFin": "2026-11-08",
+    "distance": 272324.16,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82690716",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 Senior et +50 Molières 82",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "VAZERAC"
   },
   {
     "club": {
@@ -1305,6 +1040,33 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "NIMES"
+  },
+  {
+    "club": {
+      "code": "59160154",
+      "lat": 45.657745,
+      "libelle": "ANGOULEME JS",
+      "lng": 0.153317
+    },
+    "dateDebut": "2026-11-20",
+    "dateFin": "2026-11-22",
+    "distance": 170086.27,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82694780",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Open d'Angouleme DUPR 1/3",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ANGOULEME"
   },
   {
     "club": {
