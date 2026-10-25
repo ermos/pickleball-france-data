@@ -28,30 +28,6 @@
   },
   {
     "club": {
-      "code": "53280187",
-      "lat": 48.472332,
-      "libelle": "TENNIS CLUB DE LEVES",
-      "lng": 1.485859
-    },
-    "dateDebut": "2026-10-23",
-    "dateFin": "2026-10-23",
-    "distance": 210004.97,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82682088",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 SOIREE PICKLEBALL  - TC LEVES",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "LEVES"
-  },
-  {
-    "club": {
       "code": "52358009",
       "lat": 48.19109,
       "libelle": "DINK'IT",
@@ -76,31 +52,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "LA CHAPELLE DES FOUGERETZ"
-  },
-  {
-    "club": {
-      "code": "50630398",
-      "lat": 45.777588,
-      "libelle": "LEMPDES (ATLETIC CLUB)",
-      "lng": 3.192571
-    },
-    "dateDebut": "2026-10-24",
-    "dateFin": "2026-10-24",
-    "distance": 136049.11,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82631958",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "ATCL PICKLEBALL LEMPDES",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "LEMPDES"
   },
   {
     "club": {
@@ -154,30 +105,6 @@
   },
   {
     "club": {
-      "code": "50070013",
-      "lat": 45.07175,
-      "libelle": "TOURNON TAIN TC",
-      "lng": 4.814553
-    },
-    "dateDebut": "2026-10-24",
-    "dateFin": "2026-10-24",
-    "distance": 283504.66,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82685987",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi d'Octobre",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "TOURNON SUR RHONE"
-  },
-  {
-    "club": {
       "code": "55510066",
       "lat": 49.137375,
       "libelle": "CADM MOURMELON",
@@ -201,56 +128,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "MOURMELON LE GRAND"
-  },
-  {
-    "club": {
-      "code": "60120361",
-      "lat": 44.342525,
-      "libelle": "TENNIS PADEL ROUTE D'ARGENT",
-      "lng": 2.555131
-    },
-    "dateDebut": "2026-10-24",
-    "dateFin": "2026-10-24",
-    "distance": 256710.64,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82677573",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Circuit K100 - K100 ROUTE D'ARGENT",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "OLEMPS"
-  },
-  {
-    "club": {
-      "code": "60810052",
-      "lat": 43.706978,
-      "libelle": "LAVAUR TENNIS CLUB",
-      "lng": 1.816906
-    },
-    "dateDebut": "2026-10-24",
-    "dateFin": "2026-10-24",
-    "distance": 322111.4,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82687703",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Circuit K25 Occitanie ",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "LAVAUR"
   },
   {
     "club": {
@@ -546,19 +423,19 @@
   },
   {
     "club": {
-      "code": "60650634",
-      "lat": 43.12844,
-      "libelle": "LANNEMEZAN TENNIS CLUB",
-      "lng": 0.3814
+      "code": "53370001",
+      "lat": 47.27235,
+      "libelle": "SKIN UP ACADEMY",
+      "lng": 0.474978
     },
-    "dateDebut": "2026-11-01",
-    "dateFin": "2026-11-01",
-    "distance": 404211.25,
+    "dateDebut": "2026-10-31",
+    "dateFin": "2026-10-31",
+    "distance": 130565.984,
     "favori": false,
     "idFavori": null,
-    "idHomologation": "FED_82669641",
+    "idHomologation": "FED_82695014",
     "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 Lannemezan",
+    "libelleTournoi": "K25 SKINUP ACADEMY",
     "naturesEpreuves": [
       "DD",
       "DM",
@@ -567,7 +444,7 @@
     "paiementEnLigne": false,
     "pratique": "PICKLE",
     "tournoiInterne": null,
-    "ville": "LANNEMEZAN"
+    "ville": "AZAY LE RIDEAU"
   },
   {
     "club": {
@@ -617,6 +494,31 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ST AFFRIQUE"
+  },
+  {
+    "club": {
+      "code": "60650634",
+      "lat": 43.12844,
+      "libelle": "LANNEMEZAN TENNIS CLUB",
+      "lng": 0.3814
+    },
+    "dateDebut": "2026-11-01",
+    "dateFin": "2026-11-01",
+    "distance": 404211.25,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82669641",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 Lannemezan",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LANNEMEZAN"
   },
   {
     "club": {
@@ -916,6 +818,29 @@
   },
   {
     "club": {
+      "code": "58760179",
+      "lat": 49.513023,
+      "libelle": "LE HAVRE TC MUNICIPAL",
+      "lng": 0.182763
+    },
+    "dateDebut": "2026-11-13",
+    "dateFin": "2026-11-13",
+    "distance": 347461.34,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82697372",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 TCMH",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LE HAVRE"
+  },
+  {
+    "club": {
       "code": "60308014",
       "lat": 43.806183,
       "libelle": "PICKLEBALL TIME",
@@ -986,6 +911,29 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "LE PASSAGE"
+  },
+  {
+    "club": {
+      "code": "58760179",
+      "lat": 49.513023,
+      "libelle": "LE HAVRE TC MUNICIPAL",
+      "lng": 0.182763
+    },
+    "dateDebut": "2026-11-14",
+    "dateFin": "2026-11-14",
+    "distance": 347461.34,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82697377",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 TCMH",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LE HAVRE"
   },
   {
     "club": {
@@ -1262,31 +1210,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "TOURNON SUR RHONE"
-  },
-  {
-    "club": {
-      "code": "56600088",
-      "lat": 49.25583,
-      "libelle": "MONTATAIRE TENNIS CLUB",
-      "lng": 2.430533
-    },
-    "dateDebut": "2026-11-22",
-    "dateFin": "2026-11-22",
-    "distance": 297693.6,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82659574",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "PICKLEBALL K25 DU TC MONTATAIRE",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "MONTATAIRE"
   },
   {
     "club": {
@@ -1757,6 +1680,30 @@
   },
   {
     "club": {
+      "code": "58760179",
+      "lat": 49.513023,
+      "libelle": "LE HAVRE TC MUNICIPAL",
+      "lng": 0.182763
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2026-12-12",
+    "distance": 347461.34,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82697381",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 TCMH NOEL",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LE HAVRE"
+  },
+  {
+    "club": {
       "code": "50690381",
       "lat": 45.728188,
       "libelle": "MOULIN A VENT TENNIS",
@@ -1804,6 +1751,55 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "CREISSELS"
+  },
+  {
+    "club": {
+      "code": "58760302",
+      "lat": 49.388577,
+      "libelle": "SAINT ETIENNE DU ROUVRAY CTSER",
+      "lng": 1.099448
+    },
+    "dateDebut": "2026-12-13",
+    "dateFin": "2026-12-13",
+    "distance": 315211.97,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82691122",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "TMC DOUBLE HOMMES / FEMMES ",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ST ETIENNE DU ROUVRAY"
+  },
+  {
+    "club": {
+      "code": "56600088",
+      "lat": 49.25583,
+      "libelle": "MONTATAIRE TENNIS CLUB",
+      "lng": 2.430533
+    },
+    "dateDebut": "2026-12-13",
+    "dateFin": "2026-12-13",
+    "distance": 297693.6,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82659574",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "TOURNOI PICKLEBALL K25 DE NOEL",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "MONTATAIRE"
   },
   {
     "club": {
