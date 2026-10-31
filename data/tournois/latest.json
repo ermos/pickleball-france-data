@@ -597,30 +597,6 @@
   },
   {
     "club": {
-      "code": "58270775",
-      "lat": 49.355976,
-      "libelle": "BOURG ACHARD SAINT OUEN - T2R",
-      "lng": 0.890422
-    },
-    "dateDebut": "2026-11-11",
-    "dateFin": "2026-11-11",
-    "distance": 314953.8,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82693078",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi K25 Pickleball T2R",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ST OUEN DE THOUBERVILLE"
-  },
-  {
-    "club": {
       "code": "55880426",
       "lat": 48.365734,
       "libelle": "TPPC PAYS DES ABBAYES",
@@ -643,6 +619,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ETIVAL CLAIREFONTAINE"
+  },
+  {
+    "club": {
+      "code": "58270775",
+      "lat": 49.355976,
+      "libelle": "BOURG ACHARD SAINT OUEN - T2R",
+      "lng": 0.890422
+    },
+    "dateDebut": "2026-11-11",
+    "dateFin": "2026-11-11",
+    "distance": 314953.8,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82693078",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi K25 Pickleball T2R",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ST OUEN DE THOUBERVILLE"
   },
   {
     "club": {
@@ -838,6 +838,31 @@
   },
   {
     "club": {
+      "code": "50380252",
+      "lat": 45.588356,
+      "libelle": "DOMARIN TC",
+      "lng": 5.241511
+    },
+    "dateDebut": "2026-11-15",
+    "dateFin": "2026-11-15",
+    "distance": 282087.66,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82694690",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi Pickleball du TC Domarin",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "DOMARIN"
+  },
+  {
+    "club": {
       "code": "56600455",
       "lat": 49.420437,
       "libelle": "TC COMPIEGNE POMPADOUR",
@@ -862,19 +887,19 @@
   },
   {
     "club": {
-      "code": "50380252",
-      "lat": 45.588356,
-      "libelle": "DOMARIN TC",
-      "lng": 5.241511
+      "code": "60320275",
+      "lat": 43.662334,
+      "libelle": "RISCLE TENNIS CLUB",
+      "lng": -0.084375
     },
     "dateDebut": "2026-11-15",
     "dateFin": "2026-11-15",
-    "distance": 282087.66,
+    "distance": 361761.16,
     "favori": false,
     "idFavori": null,
-    "idHomologation": "FED_82694690",
+    "idHomologation": "FED_82696709",
     "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi Pickleball du TC Domarin",
+    "libelleTournoi": "Tournoi d hiver riscle",
     "naturesEpreuves": [
       "DD",
       "DM",
@@ -883,7 +908,7 @@
     "paiementEnLigne": false,
     "pratique": "PICKLE",
     "tournoiInterne": null,
-    "ville": "DOMARIN"
+    "ville": "RISCLE"
   },
   {
     "club": {
@@ -993,6 +1018,33 @@
   },
   {
     "club": {
+      "code": "52358009",
+      "lat": 48.19109,
+      "libelle": "DINK'IT",
+      "lng": -1.72972
+    },
+    "dateDebut": "2026-11-20",
+    "dateFin": "2026-11-22",
+    "distance": 324495.1,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82700236",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi K100 Dink'it",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LA CHAPELLE DES FOUGERETZ"
+  },
+  {
+    "club": {
       "code": "50070013",
       "lat": 45.07175,
       "libelle": "TOURNON TAIN TC",
@@ -1089,6 +1141,31 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ST PRYVE ST MESMIN"
+  },
+  {
+    "club": {
+      "code": "62830175",
+      "lat": 43.56463,
+      "libelle": "ATP SAINT PAULOISE",
+      "lng": 6.69795
+    },
+    "dateDebut": "2026-11-21",
+    "dateFin": "2026-11-22",
+    "distance": 506540.62,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82695983",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Circuit PACA pickleball K100 Saint-Paul-en-Forêt",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ST PAUL EN FORET"
   },
   {
     "club": {
@@ -1438,6 +1515,30 @@
   },
   {
     "club": {
+      "code": "56590240",
+      "lat": 50.239784,
+      "libelle": "LE QUESNOY TC",
+      "lng": 3.635497
+    },
+    "dateDebut": "2026-12-05",
+    "dateFin": "2026-12-05",
+    "distance": 424378.22,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82691638",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 Givré ",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LE QUESNOY"
+  },
+  {
+    "club": {
       "code": "57L00930",
       "lat": 48.917965,
       "libelle": "CD SEINE ST DENIS",
@@ -1460,30 +1561,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "AULNAY SOUS BOIS"
-  },
-  {
-    "club": {
-      "code": "56590240",
-      "lat": 50.239784,
-      "libelle": "LE QUESNOY TC",
-      "lng": 3.635497
-    },
-    "dateDebut": "2026-12-05",
-    "dateFin": "2026-12-05",
-    "distance": 424378.22,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82691638",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 Givré ",
-    "naturesEpreuves": [
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "LE QUESNOY"
   },
   {
     "club": {
@@ -1676,6 +1753,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "AULNAY"
+  },
+  {
+    "club": {
+      "code": "62060302",
+      "lat": 43.74502,
+      "libelle": "TENNIS DES BAOUS",
+      "lng": 7.155623
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2026-12-12",
+    "distance": 520856.84,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82691064",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "circuit K100 PACA ",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ST JEANNET"
   },
   {
     "club": {
@@ -1926,6 +2027,31 @@
   },
   {
     "club": {
+      "code": "59790067",
+      "lat": 46.311882,
+      "libelle": "NIORT ECOLE DE TENNIS",
+      "lng": -0.471775
+    },
+    "dateDebut": "2026-12-27",
+    "dateFin": "2026-12-27",
+    "distance": 183662.11,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82701600",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "k100",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "NIORT"
+  },
+  {
+    "club": {
       "code": "53450527",
       "lat": 47.863323,
       "libelle": "T.C. SAINT HILAIRE SAINT MESMIN",
@@ -1972,5 +2098,28 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "CHARTRES"
+  },
+  {
+    "club": {
+      "code": "67970009",
+      "lat": -20.999348,
+      "libelle": "TENNIS CLUB DE LA BAIE DE ST PAUL",
+      "lng": 55.27918
+    },
+    "dateDebut": "2027-01-30",
+    "dateFin": "2027-01-31",
+    "distance": 9227571.0,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82688235",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "PICKLE & JECKLE K25",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "SAINT-PAUL"
   }
 ]
