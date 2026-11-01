@@ -1,78 +1,6 @@
 [
   {
     "club": {
-      "code": "56600161",
-      "lat": 49.175568,
-      "libelle": "MESNILOIS TENNIS CLUB",
-      "lng": 2.288749
-    },
-    "dateDebut": "2026-10-31",
-    "dateFin": "2026-10-31",
-    "distance": 287570.38,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82678391",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 Octobre Rose TC Mesnilois",
-    "naturesEpreuves": [
-      "DD",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "LE MESNIL EN THELLE"
-  },
-  {
-    "club": {
-      "code": "60320023",
-      "lat": 43.7652,
-      "libelle": "VIC FEZENSAC TENNIS CLUB",
-      "lng": 0.30196
-    },
-    "dateDebut": "2026-10-31",
-    "dateFin": "2026-10-31",
-    "distance": 339176.75,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82675911",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Les mousquetaires du Pickleball ",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "VIC FEZENSAC"
-  },
-  {
-    "club": {
-      "code": "60820733",
-      "lat": 44.041183,
-      "libelle": "PADEL TOLOSA MONTAUBAN ACADEMIE",
-      "lng": 1.36309
-    },
-    "dateDebut": "2026-10-31",
-    "dateFin": "2026-10-31",
-    "distance": 287843.16,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82683621",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 DOUBLE MATIN DU 31/10",
-    "naturesEpreuves": [
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "MONTAUBAN"
-  },
-  {
-    "club": {
       "code": "56600256",
       "lat": 49.260937,
       "libelle": "RAQUETTE CLUB CIROIS",
@@ -196,56 +124,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "NIMES"
-  },
-  {
-    "club": {
-      "code": "60120469",
-      "lat": 44.275154,
-      "libelle": "TENNIS CLUB PADEL BARAQUEVILLE",
-      "lng": 2.434974
-    },
-    "dateDebut": "2026-10-31",
-    "dateFin": "2026-10-31",
-    "distance": 262372.06,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82686304",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "CIRCUIT OCCITANIE K25 BARAQUEVILLE (12)",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "BARAQUEVILLE"
-  },
-  {
-    "club": {
-      "code": "53370001",
-      "lat": 47.27235,
-      "libelle": "SKIN UP ACADEMY",
-      "lng": 0.474978
-    },
-    "dateDebut": "2026-10-31",
-    "dateFin": "2026-10-31",
-    "distance": 130565.984,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82695014",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 SKINUP ACADEMY",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "AZAY LE RIDEAU"
   },
   {
     "club": {
@@ -597,6 +475,30 @@
   },
   {
     "club": {
+      "code": "58270775",
+      "lat": 49.355976,
+      "libelle": "BOURG ACHARD SAINT OUEN - T2R",
+      "lng": 0.890422
+    },
+    "dateDebut": "2026-11-11",
+    "dateFin": "2026-11-11",
+    "distance": 314953.8,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82693078",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi K25 Pickleball T2R",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ST OUEN DE THOUBERVILLE"
+  },
+  {
+    "club": {
       "code": "55880426",
       "lat": 48.365734,
       "libelle": "TPPC PAYS DES ABBAYES",
@@ -619,30 +521,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ETIVAL CLAIREFONTAINE"
-  },
-  {
-    "club": {
-      "code": "58270775",
-      "lat": 49.355976,
-      "libelle": "BOURG ACHARD SAINT OUEN - T2R",
-      "lng": 0.890422
-    },
-    "dateDebut": "2026-11-11",
-    "dateFin": "2026-11-11",
-    "distance": 314953.8,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82693078",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi K25 Pickleball T2R",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ST OUEN DE THOUBERVILLE"
   },
   {
     "club": {
@@ -1166,6 +1044,54 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ST PAUL EN FORET"
+  },
+  {
+    "club": {
+      "code": "55670356",
+      "lat": 48.5728,
+      "libelle": "DEUX RIVES SPORT CLUB",
+      "lng": 7.7715
+    },
+    "dateDebut": "2026-11-21",
+    "dateFin": "2027-08-31",
+    "distance": 492389.28,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82691289",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 Mixte",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "Strasbourg"
+  },
+  {
+    "club": {
+      "code": "59790213",
+      "lat": 46.661774,
+      "libelle": "CHATILLON SUR THOUET TC",
+      "lng": -0.232778
+    },
+    "dateDebut": "2026-11-21",
+    "dateFin": "2026-11-21",
+    "distance": 162082.44,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82657345",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 de Chatillon",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "CHATILLON SUR THOUET"
   },
   {
     "club": {
