@@ -1,134 +1,6 @@
 [
   {
     "club": {
-      "code": "56800082",
-      "lat": 50.16375,
-      "libelle": "DOULLENS TENNIS CLUB",
-      "lng": 2.354872
-    },
-    "dateDebut": "2026-11-06",
-    "dateFin": "2026-11-08",
-    "distance": 397392.56,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82668194",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K 250 Doullens",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX",
-      "SD",
-      "SM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "DOULLENS"
-  },
-  {
-    "club": {
-      "code": "60820688",
-      "lat": 44.1911,
-      "libelle": "MOLIERES T.C MALIVERT",
-      "lng": 1.2857
-    },
-    "dateDebut": "2026-11-07",
-    "dateFin": "2026-11-08",
-    "distance": 272324.16,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82690716",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K100 Senior et +50 Molières 82",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX",
-      "SD",
-      "SM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "VAZERAC"
-  },
-  {
-    "club": {
-      "code": "55680037",
-      "lat": 47.91897,
-      "libelle": "TENNIS GUEBWILLER FCG 1910",
-      "lng": 7.20237
-    },
-    "dateDebut": "2026-11-07",
-    "dateFin": "2026-11-07",
-    "distance": 426755.06,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82695940",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi Pickleball K25 GUEBWILLER",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "GUEBWILLER"
-  },
-  {
-    "club": {
-      "code": "60310536",
-      "lat": 43.662106,
-      "libelle": "VERFEIL U.S TENNIS CLUB",
-      "lng": 1.664811
-    },
-    "dateDebut": "2026-11-08",
-    "dateFin": "2026-11-08",
-    "distance": 327521.6,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82690019",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Circuit K25 - Verfeil 8/11/2026",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "VERFEIL"
-  },
-  {
-    "club": {
-      "code": "50070338",
-      "lat": 45.27846,
-      "libelle": "BOULIEU ST CLAIR TC",
-      "lng": 4.679461
-    },
-    "dateDebut": "2026-11-08",
-    "dateFin": "2026-11-08",
-    "distance": 261285.69,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82689533",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K100 TC.BOULIEU/ST CLAIR",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ST CLAIR"
-  },
-  {
-    "club": {
       "code": "55520245",
       "lat": 48.0395,
       "libelle": "TAMIS FOULINOIS",
@@ -175,30 +47,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "St Eloy les mines "
-  },
-  {
-    "club": {
-      "code": "52220404",
-      "lat": 48.489872,
-      "libelle": "LANGUEUX TENNIS CLUB",
-      "lng": -2.715319
-    },
-    "dateDebut": "2026-11-11",
-    "dateFin": "2026-11-11",
-    "distance": 404117.03,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82694751",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi Pickleball K25 TC Langueux DD et DM",
-    "naturesEpreuves": [
-      "DD",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "LANGUEUX"
   },
   {
     "club": {
@@ -275,6 +123,31 @@
   },
   {
     "club": {
+      "code": "60810043",
+      "lat": 43.91807,
+      "libelle": "USSP ALBI TENNIS",
+      "lng": 2.134266
+    },
+    "dateDebut": "2026-11-11",
+    "dateFin": "2026-11-11",
+    "distance": 299209.7,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82696581",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi Pickleball USSPA",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ALBI"
+  },
+  {
+    "club": {
       "code": "58270775",
       "lat": 49.355976,
       "libelle": "BOURG ACHARD SAINT OUEN - T2R",
@@ -321,31 +194,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ETIVAL CLAIREFONTAINE"
-  },
-  {
-    "club": {
-      "code": "60810043",
-      "lat": 43.91807,
-      "libelle": "USSP ALBI TENNIS",
-      "lng": 2.134266
-    },
-    "dateDebut": "2026-11-11",
-    "dateFin": "2026-11-11",
-    "distance": 299209.7,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82696581",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi Pickleball USSPA",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ALBI"
   },
   {
     "club": {
@@ -491,31 +339,6 @@
   },
   {
     "club": {
-      "code": "60810218",
-      "lat": 43.932716,
-      "libelle": "AS PTT ALBI TENNIS CLUB",
-      "lng": 2.170933
-    },
-    "dateDebut": "2026-11-15",
-    "dateFin": "2026-11-15",
-    "distance": 297783.56,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82690571",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Circuit K25 - ASPTT TENNIS ALBI",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ALBI"
-  },
-  {
-    "club": {
       "code": "55670255",
       "lat": 48.36421,
       "libelle": "TC EPFIG",
@@ -612,6 +435,31 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "RISCLE"
+  },
+  {
+    "club": {
+      "code": "60810218",
+      "lat": 43.932716,
+      "libelle": "AS PTT ALBI TENNIS CLUB",
+      "lng": 2.170933
+    },
+    "dateDebut": "2026-11-15",
+    "dateFin": "2026-11-15",
+    "distance": 297783.56,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82690571",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Circuit K25 - ASPTT TENNIS ALBI",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ALBI"
   },
   {
     "club": {
@@ -1292,6 +1140,30 @@
   },
   {
     "club": {
+      "code": "56590240",
+      "lat": 50.239784,
+      "libelle": "LE QUESNOY TC",
+      "lng": 3.635497
+    },
+    "dateDebut": "2026-12-05",
+    "dateFin": "2026-12-05",
+    "distance": 424378.22,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82691638",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 Givré ",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LE QUESNOY"
+  },
+  {
+    "club": {
       "code": "57L00930",
       "lat": 48.917965,
       "libelle": "CD SEINE ST DENIS",
@@ -1314,30 +1186,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "AULNAY SOUS BOIS"
-  },
-  {
-    "club": {
-      "code": "56590240",
-      "lat": 50.239784,
-      "libelle": "LE QUESNOY TC",
-      "lng": 3.635497
-    },
-    "dateDebut": "2026-12-05",
-    "dateFin": "2026-12-05",
-    "distance": 424378.22,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82691638",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 Givré ",
-    "naturesEpreuves": [
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "LE QUESNOY"
   },
   {
     "club": {
@@ -1779,6 +1627,31 @@
   },
   {
     "club": {
+      "code": "52290386",
+      "lat": 47.86827,
+      "libelle": "BENODET TENNIS CLUB",
+      "lng": -4.093825
+    },
+    "dateDebut": "2026-12-16",
+    "dateFin": "2026-12-16",
+    "distance": 472899.25,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82703898",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 BENODET",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "BENODET"
+  },
+  {
+    "club": {
       "code": "53450527",
       "lat": 47.863323,
       "libelle": "T.C. SAINT HILAIRE SAINT MESMIN",
@@ -1873,6 +1746,55 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "TOURLY"
+  },
+  {
+    "club": {
+      "code": "60810327",
+      "lat": 43.76811,
+      "libelle": "REALMONT TENNIS CLUB",
+      "lng": 2.18607
+    },
+    "dateDebut": "2026-12-19",
+    "dateFin": "2026-12-19",
+    "distance": 316126.8,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82703275",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Circuit K25 Occitanie Réalmont",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "REALMONT"
+  },
+  {
+    "club": {
+      "code": "52290378",
+      "lat": 47.857597,
+      "libelle": "TREGUNC TENNIS CLUB",
+      "lng": -3.849038
+    },
+    "dateDebut": "2026-12-19",
+    "dateFin": "2026-12-19",
+    "distance": 454978.47,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82705151",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 DM DD Tregunc Tennis Club",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "TREGUNC"
   },
   {
     "club": {
