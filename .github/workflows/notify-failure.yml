@@ -1,0 +1,47 @@
+name: Notify data workflow failures
+
+# Opens one issue per failing data workflow (GitHub notifies the repo owner),
+# comments on it while it keeps failing, and closes it once a run succeeds again.
+on:
+  workflow_run:
+    workflows:
+      - Update FFT rankings
+      - Update FFT tournaments
+      - Update DUPR players
+    types: [completed]
+
+permissions:
+  issues: write
+
+jobs:
+  notify:
+    if: github.event.workflow_run.conclusion == 'failure' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Open, update or close the failure issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          WORKFLOW: ${{ github.event.workflow_run.name }}
+          CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+          RUN_URL: ${{ github.event.workflow_run.html_url }}
+          EVENT: ${{ github.event.workflow_run.event }}
+        run: |
+          title="Workflow failing: $WORKFLOW"
+          issue=$(gh issue list --state open --label workflow-failure --limit 100 --json number,title \
+            --jq ".[] | select(.title == \"$title\") | .number" | head -1)
+
+          if [ "$CONCLUSION" = "success" ]; then
+            [ -n "$issue" ] && gh issue close "$issue" --comment "Back to green: $RUN_URL"
+            exit 0
+          fi
+
+          if [ -n "$issue" ]; then
+            gh issue comment "$issue" --body "Still failing ($EVENT): $RUN_URL"
+          else
+            gh label create workflow-failure --color d73a4a --description "A data workflow is failing" 2>/dev/null || true
+            gh issue create --title "$title" --label workflow-failure --assignee "$GITHUB_REPOSITORY_OWNER" \
+              --body "The **$WORKFLOW** workflow failed ($EVENT): $RUN_URL
+
+          This issue will be closed automatically on the next successful run."
+          fi
