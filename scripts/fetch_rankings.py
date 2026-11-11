@@ -8,7 +8,7 @@ from pathlib import Path
 
 import pdfplumber
 
-PAGE = "https://www.fft.fr/nos-sports/pickleball/les-regles-et-classement-pickleball"
+PAGE = "https://www.fft.fr/nos-sports/pickleball/regle-sarbitrage-et-classement-pickleball"
 OUT = Path(__file__).resolve().parent.parent / "data"
 
 
