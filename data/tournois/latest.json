@@ -1,6 +1,31 @@
 [
   {
     "club": {
+      "code": "65970047",
+      "lat": 14.618841,
+      "libelle": "A.S. COUNTRY CLUB DE SCHOELCHER",
+      "lng": -61.095985
+    },
+    "dateDebut": "2026-11-19",
+    "dateFin": "2026-11-20",
+    "distance": 6778855.0,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82709107",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "k 25 country club de schoelcher",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "SCHOELCHER"
+  },
+  {
+    "club": {
       "code": "50740584",
       "lat": 46.076077,
       "libelle": "THYEZ T.C.",
@@ -54,33 +79,6 @@
   },
   {
     "club": {
-      "code": "59160154",
-      "lat": 45.657745,
-      "libelle": "ANGOULEME JS",
-      "lng": 0.153317
-    },
-    "dateDebut": "2026-11-20",
-    "dateFin": "2026-11-22",
-    "distance": 170086.27,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82694780",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Open d'Angouleme DUPR 1/3",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX",
-      "SD",
-      "SM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ANGOULEME"
-  },
-  {
-    "club": {
       "code": "59338016",
       "lat": 44.87368,
       "libelle": "PICKLE ARENA",
@@ -131,6 +129,33 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "LA CHAPELLE DES FOUGERETZ"
+  },
+  {
+    "club": {
+      "code": "59160154",
+      "lat": 45.657745,
+      "libelle": "ANGOULEME JS",
+      "lng": 0.153317
+    },
+    "dateDebut": "2026-11-20",
+    "dateFin": "2026-11-22",
+    "distance": 170086.27,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82694780",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Open d'Angouleme DUPR 1/3",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ANGOULEME"
   },
   {
     "club": {
@@ -777,6 +802,30 @@
   },
   {
     "club": {
+      "code": "52220398",
+      "lat": 48.803284,
+      "libelle": "PERROS-GUIREC TENNIS CLUB MUNICIPAL",
+      "lng": -3.460516
+    },
+    "dateDebut": "2026-12-05",
+    "dateFin": "2026-12-05",
+    "distance": 468926.97,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82707858",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi Pickleball K 25",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "PERROS GUIREC"
+  },
+  {
+    "club": {
       "code": "57L00930",
       "lat": 48.917965,
       "libelle": "CD SEINE ST DENIS",
@@ -946,29 +995,6 @@
   },
   {
     "club": {
-      "code": "53450092",
-      "lat": 47.886353,
-      "libelle": "A.S DE LA TRESORERIE",
-      "lng": 1.873078
-    },
-    "dateDebut": "2026-12-12",
-    "dateFin": "2026-12-12",
-    "distance": 142667.83,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82695243",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 double mixte",
-    "naturesEpreuves": [
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ST PRYVE ST MESMIN"
-  },
-  {
-    "club": {
       "code": "59170069",
       "lat": 46.023403,
       "libelle": "AULNAY LOULAY TC",
@@ -1043,6 +1069,57 @@
   },
   {
     "club": {
+      "code": "59190019",
+      "lat": 45.160007,
+      "libelle": "BRIVE CA",
+      "lng": 1.546252
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2026-12-12",
+    "distance": 162662.39,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82703583",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi Pickleball CAB K25",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "BRIVE LA GAILLARDE"
+  },
+  {
+    "club": {
+      "code": "53370001",
+      "lat": 47.27235,
+      "libelle": "SKIN UP ACADEMY",
+      "lng": 0.474978
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2026-12-13",
+    "distance": 130565.984,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82703453",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 SKINUP ACADEMY",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "AZAY LE RIDEAU"
+  },
+  {
+    "club": {
       "code": "59400115",
       "lat": 44.03926,
       "libelle": "MORCENX CA",
@@ -1067,27 +1144,28 @@
   },
   {
     "club": {
-      "code": "59190019",
-      "lat": 45.160007,
-      "libelle": "BRIVE CA",
-      "lng": 1.546252
+      "code": "50690381",
+      "lat": 45.728188,
+      "libelle": "MOULIN A VENT TENNIS",
+      "lng": 4.858956
     },
     "dateDebut": "2026-12-12",
-    "dateFin": "2026-12-12",
-    "distance": 162662.39,
+    "dateFin": "2026-12-13",
+    "distance": 248586.77,
     "favori": false,
     "idFavori": null,
-    "idHomologation": "FED_82703583",
+    "idHomologation": "FED_82683332",
     "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi Pickleball CAB K25",
+    "libelleTournoi": "TOURNOI PICKLEBALL K100",
     "naturesEpreuves": [
       "DD",
-      "DM"
+      "DM",
+      "DX"
     ],
     "paiementEnLigne": false,
     "pratique": "PICKLE",
     "tournoiInterne": null,
-    "ville": "BRIVE LA GAILLARDE"
+    "ville": "VENISSIEUX"
   },
   {
     "club": {
@@ -1138,30 +1216,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "LA MURE"
-  },
-  {
-    "club": {
-      "code": "58760302",
-      "lat": 49.388577,
-      "libelle": "SAINT ETIENNE DU ROUVRAY CTSER",
-      "lng": 1.099448
-    },
-    "dateDebut": "2026-12-13",
-    "dateFin": "2026-12-13",
-    "distance": 315211.97,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82691122",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "TMC DOUBLE HOMMES / FEMMES ",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ST ETIENNE DU ROUVRAY"
   },
   {
     "club": {
@@ -1261,6 +1315,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "MONTATAIRE"
+  },
+  {
+    "club": {
+      "code": "58760302",
+      "lat": 49.388577,
+      "libelle": "SAINT ETIENNE DU ROUVRAY CTSER",
+      "lng": 1.099448
+    },
+    "dateDebut": "2026-12-13",
+    "dateFin": "2026-12-13",
+    "distance": 315211.97,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82691122",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "TMC DOUBLE HOMMES / FEMMES ",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ST ETIENNE DU ROUVRAY"
   },
   {
     "club": {
@@ -1411,27 +1489,27 @@
   },
   {
     "club": {
-      "code": "56600214",
-      "lat": 49.224636,
-      "libelle": "TENNIS CLUB DU VEXIN-THELLE",
-      "lng": 1.944248
+      "code": "52290172",
+      "lat": 48.427826,
+      "libelle": "GUILERS TENNIS CLUB",
+      "lng": -4.555142
     },
     "dateDebut": "2026-12-19",
     "dateFin": "2026-12-19",
-    "distance": 291503.4,
+    "distance": 524496.4,
     "favori": false,
     "idFavori": null,
-    "idHomologation": "FED_82701275",
+    "idHomologation": "FED_82700738",
     "inscriptionEnLigne": false,
-    "libelleTournoi": "K1OO du TC Vexin-Thelle",
+    "libelleTournoi": "tournoi double TC Guilers",
     "naturesEpreuves": [
-      "DD",
-      "DM"
+      "DM",
+      "DX"
     ],
     "paiementEnLigne": false,
     "pratique": "PICKLE",
     "tournoiInterne": null,
-    "ville": "TOURLY"
+    "ville": "GUILERS"
   },
   {
     "club": {
@@ -1460,6 +1538,54 @@
   },
   {
     "club": {
+      "code": "56800064",
+      "lat": 49.96939,
+      "libelle": "TENNIS CLUB D AIRAINES",
+      "lng": 1.941969
+    },
+    "dateDebut": "2026-12-20",
+    "dateFin": "2026-12-20",
+    "distance": 374307.66,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82707453",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 de Noël",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "AIRAINES"
+  },
+  {
+    "club": {
+      "code": "58760117",
+      "lat": 49.732773,
+      "libelle": "NEUFCHATEL EN BRAY TC",
+      "lng": 1.441891
+    },
+    "dateDebut": "2026-12-20",
+    "dateFin": "2026-12-20",
+    "distance": 349545.7,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82710185",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi K25 Pickleball Neufchatel",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "NEUFCHATEL EN BRAY"
+  },
+  {
+    "club": {
       "code": "58270775",
       "lat": 49.355976,
       "libelle": "BOURG ACHARD SAINT OUEN - T2R",
@@ -1482,6 +1608,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ST OUEN DE THOUBERVILLE"
+  },
+  {
+    "club": {
+      "code": "50630030",
+      "lat": 45.54151,
+      "libelle": "ISSOIRE (US)",
+      "lng": 3.248128
+    },
+    "dateDebut": "2026-12-22",
+    "dateFin": "2026-12-22",
+    "distance": 157932.31,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82709426",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 PICKLEBALL US ISSOIRE TENNIS",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ISSOIRE"
   },
   {
     "club": {
@@ -1559,6 +1709,33 @@
   },
   {
     "club": {
+      "code": "53280018",
+      "lat": 48.065758,
+      "libelle": "TENNIS CLUB DUNOIS",
+      "lng": 1.332532
+    },
+    "dateDebut": "2027-01-02",
+    "dateFin": "2027-01-03",
+    "distance": 167918.38,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82707489",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 d'Hiver du TCDUNOIS",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "CHATEAUDUN"
+  },
+  {
+    "club": {
       "code": "61850433",
       "lat": 46.709785,
       "libelle": "TC RIEZ OCEAN",
@@ -1611,6 +1788,31 @@
   },
   {
     "club": {
+      "code": "56600256",
+      "lat": 49.260937,
+      "libelle": "RAQUETTE CLUB CIROIS",
+      "lng": 2.339582
+    },
+    "dateDebut": "2027-01-10",
+    "dateFin": "2027-01-10",
+    "distance": 297414.72,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82703145",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 Cires les Mello",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "CIRES les MELLO"
+  },
+  {
+    "club": {
       "code": "53280197",
       "lat": 48.44555,
       "libelle": "MSD CHARTRES TENNIS",
@@ -1632,6 +1834,56 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "CHARTRES"
+  },
+  {
+    "club": {
+      "code": "56620427",
+      "lat": 50.23268,
+      "libelle": "AL AUXI-LE-CHATEAU",
+      "lng": 2.107442
+    },
+    "dateDebut": "2027-01-17",
+    "dateFin": "2027-01-17",
+    "distance": 403886.5,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82706758",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 Auxi",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "AUXI LE CHATEAU"
+  },
+  {
+    "club": {
+      "code": "00F00100",
+      "lat": 50.68782,
+      "libelle": "TC FEDERATION",
+      "lng": 3.10989
+    },
+    "dateDebut": "2027-01-22",
+    "dateFin": "2027-01-24",
+    "distance": 462936.44,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82705254",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Open d'Hiver Pickleball FFT",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "Marcq-en-Baroeul"
   },
   {
     "club": {
@@ -1704,6 +1956,29 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "DOULLENS"
+  },
+  {
+    "club": {
+      "code": "53450092",
+      "lat": 47.886353,
+      "libelle": "A.S DE LA TRESORERIE",
+      "lng": 1.873078
+    },
+    "dateDebut": "2027-02-13",
+    "dateFin": "2027-02-13",
+    "distance": 142667.83,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82695243",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 double mixte",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ST PRYVE ST MESMIN"
   },
   {
     "club": {
