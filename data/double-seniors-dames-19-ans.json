@@ -1,8 +1,8 @@
 {
   "titre": "DOUBLE SENIORS DAMES (+19 ans)",
   "periode": "Tournois dont la date de fin se situe entre le 1er novembre 2025 et le 1er novembre 2026",
-  "date_publication": "16/11/2026",
-  "source": "https://fft-site.cdn.prismic.io/fft-site/9nyhhLNKmJhVmvIi_ClassementDoubleDames.pdf",
+  "date_publication": "18/11/2026",
+  "source": "https://fft-site.cdn.prismic.io/fft-site/swFjt1DMK7EkCflu_ClassementDoubleDamesNOV2026MAJ.pdf",
   "joueurs": [
     {
       "serie": "5.0",
@@ -3277,7 +3277,7 @@
       "club": "TENNIS CLUB DE PARIS",
       "tournois_joues": 2,
       "points": 17,
-      "equivalence_plus_50": "4.0",
+      "equivalence_plus_50": "5.0",
       "equivalence_autres_pratiques": "5.0"
     },
     {
@@ -4369,7 +4369,7 @@
       "club": "TENNIS CLUB LOURMARIN",
       "tournois_joues": 4,
       "points": 11,
-      "equivalence_plus_50": "3.0",
+      "equivalence_plus_50": "5.0",
       "equivalence_autres_pratiques": "5.0"
     },
     {
@@ -6119,7 +6119,7 @@
       "club": "USSP ALBI TENNIS",
       "tournois_joues": 2,
       "points": 6,
-      "equivalence_plus_50": "3.0",
+      "equivalence_plus_50": "5.0",
       "equivalence_autres_pratiques": "5.0"
     },
     {
@@ -8037,7 +8037,7 @@
       "club": "CD HAUTS DE SEINE",
       "tournois_joues": 1,
       "points": 4,
-      "equivalence_plus_50": "3.0",
+      "equivalence_plus_50": "5.0",
       "equivalence_autres_pratiques": "5.0"
     },
     {
@@ -10053,7 +10053,7 @@
       "club": "ECAC TENNIS",
       "tournois_joues": 1,
       "points": 3,
-      "equivalence_plus_50": "3.0",
+      "equivalence_plus_50": "5.0",
       "equivalence_autres_pratiques": "5.0"
     },
     {
@@ -12811,7 +12811,7 @@
       "club": "SAINT RAPHAEL CC",
       "tournois_joues": 1,
       "points": 2,
-      "equivalence_plus_50": "3.0",
+      "equivalence_plus_50": "5.0",
       "equivalence_autres_pratiques": "5.0"
     },
     {
@@ -17991,7 +17991,7 @@
       "club": "TENNIS CLUB DU ROBERT",
       "tournois_joues": 1,
       "points": 1,
-      "equivalence_plus_50": "3.0",
+      "equivalence_plus_50": "5.0",
       "equivalence_autres_pratiques": "5.0"
     },
     {
@@ -19937,7 +19937,7 @@
       "club": "TC ALESIEN",
       "tournois_joues": 1,
       "points": 1,
-      "equivalence_plus_50": null,
+      "equivalence_plus_50": "3.0",
       "equivalence_autres_pratiques": null
     },
     {
@@ -19951,7 +19951,7 @@
       "club": "TC ALESIEN",
       "tournois_joues": 1,
       "points": 1,
-      "equivalence_plus_50": null,
+      "equivalence_plus_50": "3.0",
       "equivalence_autres_pratiques": null
     },
     {
@@ -19965,7 +19965,7 @@
       "club": "TC ALESIEN",
       "tournois_joues": 1,
       "points": 1,
-      "equivalence_plus_50": null,
+      "equivalence_plus_50": "3.0",
       "equivalence_autres_pratiques": null
     },
     {
@@ -19979,7 +19979,7 @@
       "club": "TC ALESIEN",
       "tournois_joues": 1,
       "points": 1,
-      "equivalence_plus_50": null,
+      "equivalence_plus_50": "3.0",
       "equivalence_autres_pratiques": null
     },
     {
@@ -20357,7 +20357,7 @@
       "club": "SAINT ETIENNE TENNIS CLUB",
       "tournois_joues": 11,
       "points": 57,
-      "equivalence_plus_50": "5.0",
+      "equivalence_plus_50": "4.0",
       "equivalence_autres_pratiques": null
     },
     {
@@ -20385,7 +20385,7 @@
       "club": "PICKLEBALL PARIS",
       "tournois_joues": 1,
       "points": 50,
-      "equivalence_plus_50": "5.0",
+      "equivalence_plus_50": "4.0",
       "equivalence_autres_pratiques": null
     },
     {
@@ -20441,7 +20441,7 @@
       "club": "AS MOURATOGLOU CC",
       "tournois_joues": 2,
       "points": 40,
-      "equivalence_plus_50": "5.0",
+      "equivalence_plus_50": "4.0",
       "equivalence_autres_pratiques": null
     },
     {
@@ -20455,7 +20455,7 @@
       "club": "LA RAQUETTE ROQUEFORTOISE",
       "tournois_joues": 2,
       "points": 40,
-      "equivalence_plus_50": "5.0",
+      "equivalence_plus_50": "4.0",
       "equivalence_autres_pratiques": null
     },
     {
