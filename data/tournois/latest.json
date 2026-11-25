@@ -1,164 +1,6 @@
 [
   {
     "club": {
-      "code": "50740584",
-      "lat": 46.076077,
-      "libelle": "THYEZ T.C.",
-      "lng": 6.543939
-    },
-    "dateDebut": "2026-11-20",
-    "dateFin": "2026-11-22",
-    "distance": 362117.8,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82676553",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K100 Thyez Pickleball",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX",
-      "SD",
-      "SM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "THYEZ"
-  },
-  {
-    "club": {
-      "code": "60308014",
-      "lat": 43.806183,
-      "libelle": "PICKLEBALL TIME",
-      "lng": 4.326404
-    },
-    "dateDebut": "2026-11-20",
-    "dateFin": "2026-11-22",
-    "distance": 364957.44,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82688992",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Circuit K25 - PICKLEBALLTIME",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX",
-      "SM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "NIMES"
-  },
-  {
-    "club": {
-      "code": "59338016",
-      "lat": 44.87368,
-      "libelle": "PICKLE ARENA",
-      "lng": -0.56265
-    },
-    "dateDebut": "2026-11-20",
-    "dateFin": "2026-11-23",
-    "distance": 270477.47,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82697111",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K100 PICKLE ARENA - NOVEMBRE 2027",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX",
-      "SM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "BORDEAUX"
-  },
-  {
-    "club": {
-      "code": "52358009",
-      "lat": 48.19109,
-      "libelle": "DINK'IT",
-      "lng": -1.72972
-    },
-    "dateDebut": "2026-11-20",
-    "dateFin": "2026-11-22",
-    "distance": 324495.1,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82700236",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi K100 Dink'it",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX",
-      "SD",
-      "SM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "LA CHAPELLE DES FOUGERETZ"
-  },
-  {
-    "club": {
-      "code": "59160154",
-      "lat": 45.657745,
-      "libelle": "ANGOULEME JS",
-      "lng": 0.153317
-    },
-    "dateDebut": "2026-11-20",
-    "dateFin": "2026-11-22",
-    "distance": 170086.27,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82694780",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Open d'Angouleme DUPR 1/3",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX",
-      "SD",
-      "SM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ANGOULEME"
-  },
-  {
-    "club": {
-      "code": "62830175",
-      "lat": 43.56463,
-      "libelle": "ATP SAINT PAULOISE",
-      "lng": 6.69795
-    },
-    "dateDebut": "2026-11-21",
-    "dateFin": "2026-11-22",
-    "distance": 506540.62,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82695983",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Circuit PACA pickleball K100 Saint-Paul-en-Forêt",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ST PAUL EN FORET"
-  },
-  {
-    "club": {
       "code": "55670356",
       "lat": 48.5728,
       "libelle": "DEUX RIVES SPORT CLUB",
@@ -179,129 +21,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "Strasbourg"
-  },
-  {
-    "club": {
-      "code": "51210004",
-      "lat": 47.304394,
-      "libelle": "CHEVIGNY TENNIS CLUB",
-      "lng": 5.12719
-    },
-    "dateDebut": "2026-11-22",
-    "dateFin": "2026-11-22",
-    "distance": 257870.27,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82690073",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi K100 du Chevigny T.C",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "CHEVIGNY ST SAUVEUR"
-  },
-  {
-    "club": {
-      "code": "50070013",
-      "lat": 45.07175,
-      "libelle": "TOURNON TAIN TC",
-      "lng": 4.814553
-    },
-    "dateDebut": "2026-11-22",
-    "dateFin": "2026-11-22",
-    "distance": 283504.66,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82691184",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi mixte Novembre",
-    "naturesEpreuves": [
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "TOURNON SUR RHONE"
-  },
-  {
-    "club": {
-      "code": "53280197",
-      "lat": 48.44555,
-      "libelle": "MSD CHARTRES TENNIS",
-      "lng": 1.524355
-    },
-    "dateDebut": "2026-11-22",
-    "dateFin": "2026-11-22",
-    "distance": 206657.58,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82655792",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "PICKLEBALL TOUR EURELIEN - K100 - MSD CHARTRES",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "CHARTRES"
-  },
-  {
-    "club": {
-      "code": "542B0005",
-      "lat": 42.00608,
-      "libelle": "FIUMORBU TC",
-      "lng": 9.371595
-    },
-    "dateDebut": "2026-11-22",
-    "dateFin": "2026-11-22",
-    "distance": 784179.44,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82702867",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "GHJOCA PICKL OPEN K100",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX",
-      "SM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "PRUNELLI DI FIUMORBO"
-  },
-  {
-    "club": {
-      "code": "53370452",
-      "lat": 47.47916,
-      "libelle": "TENNIS CLUB DE REUGNY",
-      "lng": 0.88995
-    },
-    "dateDebut": "2026-11-22",
-    "dateFin": "2026-11-22",
-    "distance": 123315.96,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82704178",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 TENNIS CLUB DE REUGNY",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "REUGNY"
   },
   {
     "club": {
@@ -527,6 +246,31 @@
   },
   {
     "club": {
+      "code": "52220392",
+      "lat": 48.67586,
+      "libelle": "PLOUHA TENNIS CLUB",
+      "lng": -2.93215
+    },
+    "dateDebut": "2026-11-29",
+    "dateFin": "2026-12-06",
+    "distance": 428297.44,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82711828",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi interne",
+    "naturesEpreuves": [
+      "DM",
+      "DX",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "PLOUHA"
+  },
+  {
+    "club": {
       "code": "60820058",
       "lat": 44.03897,
       "libelle": "ASSOCIATION TENNIS MONTAUBAN A.T.M",
@@ -653,6 +397,30 @@
   },
   {
     "club": {
+      "code": "52220398",
+      "lat": 48.803284,
+      "libelle": "PERROS-GUIREC TENNIS CLUB MUNICIPAL",
+      "lng": -3.460516
+    },
+    "dateDebut": "2026-12-05",
+    "dateFin": "2026-12-05",
+    "distance": 468926.97,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82707858",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi Pickleball K 25",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "PERROS GUIREC"
+  },
+  {
+    "club": {
       "code": "57L00930",
       "lat": 48.917965,
       "libelle": "CD SEINE ST DENIS",
@@ -675,30 +443,6 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "AULNAY SOUS BOIS"
-  },
-  {
-    "club": {
-      "code": "52220398",
-      "lat": 48.803284,
-      "libelle": "PERROS-GUIREC TENNIS CLUB MUNICIPAL",
-      "lng": -3.460516
-    },
-    "dateDebut": "2026-12-05",
-    "dateFin": "2026-12-05",
-    "distance": 468926.97,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82707858",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi Pickleball K 25",
-    "naturesEpreuves": [
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "PERROS GUIREC"
   },
   {
     "club": {
@@ -920,30 +664,6 @@
   },
   {
     "club": {
-      "code": "59400115",
-      "lat": 44.03926,
-      "libelle": "MORCENX CA",
-      "lng": -0.9111
-    },
-    "dateDebut": "2026-12-12",
-    "dateFin": "2026-12-12",
-    "distance": 359385.97,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82703075",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "tournoi de pickleball K25 morcenx",
-    "naturesEpreuves": [
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "MORCENX"
-  },
-  {
-    "club": {
       "code": "50690381",
       "lat": 45.728188,
       "libelle": "MOULIN A VENT TENNIS",
@@ -1017,6 +737,55 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "AZAY LE RIDEAU"
+  },
+  {
+    "club": {
+      "code": "52220215",
+      "lat": 48.53964,
+      "libelle": "PLERIN TENNIS CLUB",
+      "lng": -2.754348
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2026-12-12",
+    "distance": 409360.25,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82711216",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 PLERIN",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "PLERIN"
+  },
+  {
+    "club": {
+      "code": "59400115",
+      "lat": 44.03926,
+      "libelle": "MORCENX CA",
+      "lng": -0.9111
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2026-12-12",
+    "distance": 359385.97,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82703075",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "tournoi de pickleball K25 morcenx",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "MORCENX"
   },
   {
     "club": {
@@ -1242,6 +1011,33 @@
   },
   {
     "club": {
+      "code": "52358009",
+      "lat": 48.19109,
+      "libelle": "DINK'IT",
+      "lng": -1.72972
+    },
+    "dateDebut": "2026-12-18",
+    "dateFin": "2026-12-20",
+    "distance": 324495.1,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82712142",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 de Noël - Dink'it Pickleball",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LA CHAPELLE DES FOUGERETZ"
+  },
+  {
+    "club": {
       "code": "56800082",
       "lat": 50.16375,
       "libelle": "DOULLENS TENNIS CLUB",
@@ -1364,6 +1160,30 @@
   },
   {
     "club": {
+      "code": "59178001",
+      "lat": 46.162354,
+      "libelle": "IMPACT STADIUM",
+      "lng": -1.091703
+    },
+    "dateDebut": "2026-12-19",
+    "dateFin": "2026-12-19",
+    "distance": 233772.9,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82710496",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25",
+    "naturesEpreuves": [
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "PERIGNY"
+  },
+  {
+    "club": {
       "code": "56590327",
       "lat": 50.593224,
       "libelle": "CLUB EMMERINOIS DE TENNIS",
@@ -1437,6 +1257,29 @@
   },
   {
     "club": {
+      "code": "52560053",
+      "lat": 47.675625,
+      "libelle": "AURAY TENNIS CLUB",
+      "lng": -2.990891
+    },
+    "dateDebut": "2026-12-20",
+    "dateFin": "2026-12-20",
+    "distance": 387750.75,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82710437",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 DOUBLE MIXTE TC AURAY",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "AURAY"
+  },
+  {
+    "club": {
       "code": "55L00680",
       "lat": 47.725243,
       "libelle": "COMITE HAUT RHIN TENNIS",
@@ -1462,30 +1305,6 @@
   },
   {
     "club": {
-      "code": "50630030",
-      "lat": 45.54151,
-      "libelle": "ISSOIRE (US)",
-      "lng": 3.248128
-    },
-    "dateDebut": "2026-12-22",
-    "dateFin": "2026-12-22",
-    "distance": 157932.31,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82709426",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K100 PICKLEBALL US ISSOIRE TENNIS",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ISSOIRE"
-  },
-  {
-    "club": {
       "code": "58270775",
       "lat": 49.355976,
       "libelle": "BOURG ACHARD SAINT OUEN - T2R",
@@ -1508,6 +1327,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "ST OUEN DE THOUBERVILLE"
+  },
+  {
+    "club": {
+      "code": "50630030",
+      "lat": 45.54151,
+      "libelle": "ISSOIRE (US)",
+      "lng": 3.248128
+    },
+    "dateDebut": "2026-12-22",
+    "dateFin": "2026-12-22",
+    "distance": 157932.31,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82709426",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K100 PICKLEBALL US ISSOIRE TENNIS",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ISSOIRE"
   },
   {
     "club": {
@@ -1557,6 +1400,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "NIORT"
+  },
+  {
+    "club": {
+      "code": "55100085",
+      "lat": 48.282055,
+      "libelle": "TC RIVIERE DE CORPS",
+      "lng": 4.023679
+    },
+    "dateDebut": "2026-12-27",
+    "dateFin": "2026-12-27",
+    "distance": 246214.02,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82710166",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi K100 TCRC hiver",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "LA RIVIERE DE CORPS"
   },
   {
     "club": {
@@ -1831,6 +1698,7 @@
     "inscriptionEnLigne": false,
     "libelleTournoi": "PICKLE & JECKLE K25",
     "naturesEpreuves": [
+      "DM",
       "DX"
     ],
     "paiementEnLigne": false,
