@@ -197,31 +197,6 @@
   },
   {
     "club": {
-      "code": "62130577",
-      "lat": 43.684982,
-      "libelle": "TENNIS CLUB DE TRINQUETAILLE",
-      "lng": 4.609788
-    },
-    "dateDebut": "2026-11-29",
-    "dateFin": "2026-11-29",
-    "distance": 388353.6,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82706533",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Trinquetaille Pickleball K25",
-    "naturesEpreuves": [
-      "DD",
-      "DM",
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "ARLES"
-  },
-  {
-    "club": {
       "code": "56600161",
       "lat": 49.175568,
       "libelle": "MESNILOIS TENNIS CLUB",
@@ -268,6 +243,31 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "PLOUHA"
+  },
+  {
+    "club": {
+      "code": "62130577",
+      "lat": 43.684982,
+      "libelle": "TENNIS CLUB DE TRINQUETAILLE",
+      "lng": 4.609788
+    },
+    "dateDebut": "2026-11-29",
+    "dateFin": "2026-11-29",
+    "distance": 388353.6,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82706533",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Trinquetaille Pickleball K25",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "ARLES"
   },
   {
     "club": {
@@ -495,6 +495,30 @@
   },
   {
     "club": {
+      "code": "59330236",
+      "lat": 44.81392,
+      "libelle": "BOULIAC TC",
+      "lng": -0.502273
+    },
+    "dateDebut": "2026-12-11",
+    "dateFin": "2026-12-11",
+    "distance": 272093.03,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82712412",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "1er K25 de Bouliac H et F",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "BOULIAC"
+  },
+  {
+    "club": {
       "code": "67970029",
       "lat": -21.27155,
       "libelle": "T.C. DU TAMPON",
@@ -689,30 +713,6 @@
   },
   {
     "club": {
-      "code": "59190019",
-      "lat": 45.160007,
-      "libelle": "BRIVE CA",
-      "lng": 1.546252
-    },
-    "dateDebut": "2026-12-12",
-    "dateFin": "2026-12-12",
-    "distance": 162662.39,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82703583",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournoi Pickleball CAB K25",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "BRIVE LA GAILLARDE"
-  },
-  {
-    "club": {
       "code": "53370001",
       "lat": 47.27235,
       "libelle": "SKIN UP ACADEMY",
@@ -786,6 +786,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "MORCENX"
+  },
+  {
+    "club": {
+      "code": "59190019",
+      "lat": 45.160007,
+      "libelle": "BRIVE CA",
+      "lng": 1.546252
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2026-12-12",
+    "distance": 162662.39,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82703583",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi Pickleball CAB K25",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "BRIVE LA GAILLARDE"
   },
   {
     "club": {
@@ -1112,30 +1136,6 @@
   },
   {
     "club": {
-      "code": "52290378",
-      "lat": 47.857597,
-      "libelle": "TREGUNC TENNIS CLUB",
-      "lng": -3.849038
-    },
-    "dateDebut": "2026-12-19",
-    "dateFin": "2026-12-19",
-    "distance": 454978.47,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82705151",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "K25 DM DD Tregunc Tennis Club",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "PICKLE",
-    "tournoiInterne": null,
-    "ville": "TREGUNC"
-  },
-  {
-    "club": {
       "code": "52290172",
       "lat": 48.427826,
       "libelle": "GUILERS TENNIS CLUB",
@@ -1181,6 +1181,30 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "PERIGNY"
+  },
+  {
+    "club": {
+      "code": "52290378",
+      "lat": 47.857597,
+      "libelle": "TREGUNC TENNIS CLUB",
+      "lng": -3.849038
+    },
+    "dateDebut": "2026-12-19",
+    "dateFin": "2026-12-19",
+    "distance": 454978.47,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82705151",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "K25 DM DD Trégunc Tennis Club",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "TREGUNC"
   },
   {
     "club": {
@@ -1607,6 +1631,31 @@
   },
   {
     "club": {
+      "code": "55520038",
+      "lat": 48.10407,
+      "libelle": "ECAC TENNIS",
+      "lng": 5.139336
+    },
+    "dateDebut": "2027-01-16",
+    "dateFin": "2027-01-17",
+    "distance": 296309.47,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82714465",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi Pickleball ECAC Tennis",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "CHAUMONT"
+  },
+  {
+    "club": {
       "code": "56620427",
       "lat": 50.23268,
       "libelle": "AL AUXI-LE-CHATEAU",
@@ -1825,5 +1874,57 @@
     "pratique": "PICKLE",
     "tournoiInterne": null,
     "ville": "PORNICHET"
+  },
+  {
+    "club": {
+      "code": "55570299",
+      "lat": 49.235657,
+      "libelle": "FALCK TC",
+      "lng": 6.641243
+    },
+    "dateDebut": "2027-02-26",
+    "dateFin": "2027-02-28",
+    "distance": 459323.78,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82702354",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournoi k100 hiver",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "FALCK"
+  },
+  {
+    "club": {
+      "code": "56600446",
+      "lat": 49.35529,
+      "libelle": "TENNIS CLUB HERMES",
+      "lng": 2.24485
+    },
+    "dateDebut": "2027-02-27",
+    "dateFin": "2027-02-28",
+    "distance": 307149.22,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82691106",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Kroi100 D’HERMES",
+    "naturesEpreuves": [
+      "DX",
+      "SD",
+      "SM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "PICKLE",
+    "tournoiInterne": null,
+    "ville": "HERMES"
   }
 ]
